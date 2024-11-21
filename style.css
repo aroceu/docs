@@ -1,0 +1,166 @@
+body{
+	background: url('anchor.png') repeat fixed;
+	font: normal 110%/130% 'Inconsolata', monospace;
+	color: #333;
+}
+
+#container{
+    width: 60vw;
+    	margin: 20px 20px 20px auto;
+}
+
+#content{
+	padding: 1em;
+	background: #fff;
+    border: 5px double #70aab3;
+}
+
+#box{
+	position: fixed;
+	top: 10vh;
+	left: 7vw;
+	background: #fff;
+	padding: 0.5em 1em 0.5em 0;
+	border: 5px double #70aab3;
+}
+
+#box ul{
+	list-style-type: none;
+	text-transform: lowercase;
+}
+
+#navigation{
+	background: #fff;
+    padding: 1em;
+    border: 5px double #70aab3;
+    margin: 20px auto;
+}
+
+#navigation li {
+	list-style-type: none;
+	display: inline-block;
+	margin: 0 20px 0 0;
+}
+
+a:link, a:visited{
+	color: #589BA7;
+}
+
+i{
+	color: #589BA7;
+}
+
+a:hover, a:focus{
+	color: #333;
+}
+
+#content ul li{
+	margin: 1em 0;
+}
+
+h1{
+	font: normal 200% 'Inconsolata', monospace;
+	color: #589BA7;
+	border-bottom: 3px solid #589BA7;
+	padding: 1em 0 1em;
+	margin: 0;
+	font-weight: bold;
+}
+
+h2{
+	font: italic 150% 'Inconsolata', monospace;
+	font-weight: bold;
+	color: #589BA7;
+}
+
+h3{
+    margin: 0 0 1em;
+    padding: 0;
+    text-align: right;
+    color: #589BA7;
+    text-transform: uppercase;
+}
+
+h4{
+	text-transform: uppercase;
+	color: #589BA7;
+	font: normal 115% 'Inconsolata', monospace;
+	letter-spacing: 2px;
+	font-weight: bold;
+	margin-left: 2em;
+}
+
+hr{
+	border-top: 3px solid #589BA7;
+	border-bottom: none;
+	margin: 2em auto;
+}
+
+
+img.left{
+    float: left;
+    padding: 10px 10px 10px 0;
+}
+
+img.right{
+    float: right;
+    padding: 10px 0 10px 10px;
+}
+
+big{
+	color: #77b3bd;
+	font-weight: bold;
+}
+
+b, u, code{
+    color: #589BA7;
+}
+
+@media only screen and (max-width: 1025px) and (min-width: 769px){
+    
+    html {
+-webkit-text-size-adjust: 100%;
+}
+    
+    #box{
+    display: none;
+    }
+    
+    
+    #container{
+        width: auto;
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (max-width: 768px) and (min-width: 431px) {
+html {
+-webkit-text-size-adjust: 100%;
+}
+
+#container{
+    width: auto;
+    margin: 5% auto;
+}
+
+#box{display: none;
+}
+
+
+}
+
+@media only screen and (max-width: 430px) and (min-width: 0px) {
+html {
+-webkit-text-size-adjust: 100%;
+}
+
+#container{
+    width: auto;
+    margin: 5% auto;
+}
+
+#box{display: none;
+}
+
+
+}
