@@ -71,6 +71,7 @@
     <li>My <a href="https://github.com/aroceu/music">music archive</a></li>
     <li>My <a href="https://github.com/aroceu/gifts">gifts</a> (things people have made for me)</li>
     <li>My <a href="https://github.com/aroceu/generators">prompt generators</a></li>
+    <li>This! The <a href="https://github.com/aroceu/docs">docs</a> are here too now.</li>
 </ul>
 
 <p>You may be interested in the repos for <a href="https://github.com/aroceu/links">my links</a> or <a href="https://github.com/aroceu/icirrus">my Pok&eacute;mon website</a> as well.</p>
