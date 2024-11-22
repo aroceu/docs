@@ -2,7 +2,7 @@
     <?php include('box.php'); ?>
     <?php include('navigation.php'); ?>
 
-<h1>Additional Reading</h1>
+<h1>Addendums</h1>
 
 <ul><li><a href="#design">Design Philosophies</a></li>
     <li><a href="#development">Development</a></li>
@@ -30,7 +30,7 @@
 
 <p>Overall, I'm drawn to making designs that best present and represent the content they're displaying in some way, with both personal and modern flourishes. Websites are about the content, after all; the design is the architecture. Much like storytelling, I take a lot of care into thinking about the most effective (simplistic & convenient) way of presenting the content, while in the same vein figuring out how to make it unique and distinct &mdash; how it could represent choices only <i>I</i> would make for it. I suppose this is redundant since only I can make the things that I make...but my point stands. Even if the decision is as simple as <code>&lt;text with white box on a colored background in the middle of the page&gt;</code> I made the decision for a reason in the first place.</p>
 
-<p>I also now enjoy using graphics made by others a lot more than I used to. When I was younger, I was much more possessive and selective about having graphics that I made, as part of a personal neurosis for being entirely self-made. But since then I've relaxed, especially when it comes to building webpages that <i>aren't</i> just about the things that I've made. Creativity is not an antonym of transformative, and it brings me a lot of joy to be inspired by others and use the resources available to me to build something that's not only representative of me, but also how I see and interact with the world.</p>
+<p>I also now enjoy using graphics made by others a lot more than I used to. When I was younger, I was much more possessive and selective about having only graphics that I made, as part of a personal neurosis for being entirely self-made. But since then I've relaxed, especially when it comes to building webpages that <i>aren't</i> just about the things that I've made. Creativity is not an antonym of transformative, and it brings me a lot of joy to be inspired by others and use the resources available to me to build something that's not only representative of me, but also how I see and interact with the world.</p>
 
 <p>But I won't get too philosophical, because sometimes it's not that deep. Sometimes it's because I like lighter and less saturated shades of blue; because I like anchors as an image motif; because the easiest way to experience content is by having it be easy to experience in the first place. Though my code and personal practicing skill may have a few areas of improvement, what matters most to me is having a website and going, look, that's mine, isn't it neat? And at this point in time, I'd like to think I'm pretty good at that.</p>
 
@@ -40,25 +40,25 @@
 
 <h2>Fonts</h2>
 
-<p>I've put a lot of thought into font usage all my life, both as a writer and as a designer. Even now, though I've settled into a vibe that feels dependable and accessible and convenient and unique (all of which are my primary concerns with anything creative), fonts are still something I spend a lot of time thinking deeply about, because much like any other aspect of design, they are fundamental in not only displaying <i>what</i> the content is, but <i>how</i> it gets displayed and read.</p>
+<p>I've put a lot of thought into font usage all my life, both as a writer and as a designer. Even now, though I've settled into a vibe that feels accessible and convenient and unique (all of which are my primary concerns with anything visually creative on my end), fonts are still something I spend a lot of time thinking deeply about, because much like any other aspect of design, they are fundamental in not only displaying <i>what</i> the content is, but <i>how</i> it gets displayed and read.</p>
 
 <p>I prefer serif (Cambria) when writing stories, but sans-serif when it's my website telling the story, not me. I like to think it's because I take writing more seriously than websiting; sans-serif has always felt more informal and everyday to me, much like my own approach to websites. Yet there's no denying my passion for it even in this regard, so I've really become inclined to monospace fonts as well. Maybe these things are connected. Most of the pages on this personal domain use the same monospace font, so maybe that means something.</p>
 
-<p>Either way, like my preference for designs being long-lasting, I like having dependable fonts as well, rather than needing to scour the many font websites and repositories to find a new one that I like. Most of my website projects are vanity projects anyway, so that checks out. I would say though that my favorite font style is undoubtedly a handwritten cursive, because it emulates the casual cutesy but stylized vibe that I usually go for. And that's how I would describe my own actual handwriting too.</p>
+<p>Either way, like my preference for designs being long-lasting, I like having dependable fonts as well, rather than needing to scour the many font websites and repositories to find a new one that I like. Most of my website projects are vanity projects anyway, so that checks out. I would say though that my favorite font style is undoubtedly a handwritten cursive, because it emulates the casual cutesy but stylized vibe that I usually go for. And that's how I would describe my actual handwriting too.</p>
 
 <hr />
 
 <h2>Colors</h2>
 
-<p>Establishing an identity of colors was as difficult and long as my own indecision when it comes to colors I like. Now I'm confident when I say that my favorite color is a light less-saturated blue.</p>
+<p>Establishing an identity of design colors was as difficult and long as my own indecision when it comes to colors I like. Now I'm confident when I say that my favorite color is a light less-saturated blue.</p>
 
 <p>Still, like with the people in the world (and on the internet), I have a relationship with colors, too. Pink was the very first color I fell in love with, but I've always been personally drawn to lighter, tealer shades of blue &mdash; never really the royal side though. I feel a kinship with the ocean too, and if I had to describe my personality and understanding of myself as a color, it would also be that light shade of grey-blue.</p>
 
 <p>I say this here because all of my websites on my .com are very notably centered around this blue (or variants), if you haven't noticed. Blue feels like it's <i>me</i>; pink feels like the things I love, and I love a lot of things as well. Even the theming around things I love, people I love, and my favorites of things tend to skew more pink, with the exception of my <a href="https://icirr.us/trainer/favs">Pok&eacute;mon favorites</a>, because I wanted to put my favorite NPC (Clair) as the trainer avatar, and the rest of the page complementary to her. </p>
 
-<p>I used to be less personally deliberate with my colors. Actually, my original color palette for a long time and that I often fall back to &mdash; even today &mdash; is black and white. Can't go wrong with the classics, you know. <small>And I used to be obsessed with yin yang symbolism, but that's besides the point.</small> But how I feel about colors when making websites is also like how I feel about the colors in my wardrobe (there's a lot of black) &mdash; I like the idea of being colorful and more experimental and fun, but most times I'll prefer what I'm used to liking and saying are my favorites. </p>
+<p>I used to be less personally deliberate with my colors. Actually, my original color palette for a long time and that I often fall back to &mdash; even today &mdash; is black and white. Can't go wrong with the classics, you know. <small>And I used to be obsessed with yin yang symbolism, but that's beside the point.</small> But how I feel about colors when making websites is also like how I feel about the colors in my wardrobe (there's a lot of black) &mdash; I like the idea of being colorful and more experimental and fun, but most times I'll prefer what I'm used to liking and saying are my favorites. </p>
 
-<p>The second time I bought a domain (but the first time it felt personal to me), my idea for it was that all the different parts of my websites would be centered around different colors. My blog would be bright pink-red, my contact form would be blue, my fanlistings collective would be green, my portfolio would be yellow, and my web content site would be purple. Though this was certainly a fun idea, it felt like I was dividing myself up into pieces by making them so distinctly different. Now I have even more subsections of my website than I did back then &mdash; but having the blue centering them all feels like they tie back together to represent a whole version of me.</p>
+<p>The second time I bought a domain (but the first time it felt personal to me), I had the idea to have all the different subsections of my website centered around a different hue of the rainbow. My blog would be bright pink-red, my contact form would be blue, my fanlistings collective would be green, my portfolio would be yellow, and my web content site would be purple. Though this was certainly a fun idea, it felt like I was dividing myself up into pieces by making them so distinctly different. Now I have even more subsections of my website than I did back then &mdash; but having the blue centering them all feels like they tie back together to represent a whole version of me.</p>
 
 <p>All's this to say: I "am" blue (obviously not really, but I just typed all of this, so...), I love pink, I have a lot of black clothing, and I think other colors are cool and I would use them for designs that are not deeply personal to me. If I had to pick a color I don't like, it would be green because I would always choose it last when selecting colors for any designing purpose, but I don't actively dislike it. I mean, I like Charli xcx's <i>Brat</i>." But maybe it's because I grew up surrounded by trees.</p>
 
@@ -74,7 +74,7 @@
     <li>This! The <a href="https://github.com/aroceu/docs">docs</a> are here too now.</li>
 </ul>
 
-<p>You may be interested in the repos for <a href="https://github.com/aroceu/links">my links</a> or <a href="https://github.com/aroceu/icirrus">my Pok&eacute;mon website</a> as well.</p>
+<p>You may be interested in the repos for <a href="https://github.com/aroceu/links">my links</a> and <a href="https://github.com/aroceu/icirrus">my Pok&eacute;mon website</a>. Additional material related to my internet presence is aggregated at <a href="https://aroceu.github.io">my Github pages</a>.</p>
 
 <p>I am not a very disciplined developer; everything I learned about web development I initially learned through trial and error with constant browser refreshes, and using whatever's the most convenient to me at the time, so that's the habit I've maintained for the past couple of decades. I recognize that this is not best practice and I am, little by little, trying to improve that.</p>
 

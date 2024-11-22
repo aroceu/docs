@@ -15,6 +15,8 @@
 
 <p>"<big>aroceu</big>" is not based in anything specific nor is it drawn from any language. It is a made-up word comprised of letters in a sequence that is significant to me. You may pronounce it however you want; I pronounce it as "ə-rō-su."</p>
 
+<p>My internet name is <big>Arrow Sparrow</b>, named after the Wudai weapon held by Kimiko from Xiaolin Showdown. Xiaolin Showdown is one of my favorite TV shows (not to mention cartoons) and I love Kimiko and birds and long range attacks, much like the in-universe weapon. <i>Arrow</i> is also, incidentally, a homophone of the internet name I used to go by.</big>
+
 <h1 id="domains">Domain Overview</h1>
 
 <p>You may notice that many of my pages and primary subpages largely feature the color blue, because it's my favorite color. </p>

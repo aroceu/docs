@@ -12,7 +12,7 @@
 		    <li><a href="info#icirrus">icirr.us</a></li>
 		    </ul></li>
     </ul></li>
-	    <li><a href="etc">Additional Reading</a><ul>
+	    <li><a href="etc">Addendums</a><ul>
 	    <li><a href="etc#design">Design Philosophies</a></li>
 		<li><a href="etc#development">Development</a></li>
 		<li><a href="etc#origins">Origins</a></li>
