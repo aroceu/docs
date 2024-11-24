@@ -27,37 +27,6 @@
 
 <p>Here are linkback buttons for all the sites I made them for. Some are twice the size but scaled down for quality purposes. I would generally prefer if they don't get hotlinked.</p>
 
-<p align="center">
-    <img src="https://aroceu.com/library/50x50.png" height="50">
-    <img src="https://aroceu.com/library/75x50.png" height="50">
-    <img src="https://aroceu.com/library/100x50.png" height="50">
-    <img src="https://icirr.us/gym/fight/linkback/pastel10050.png" height="50">
-    <img src="https://icirr.us/gym/fight/linkback/pastel5050.png"> 
-    <img src="https://icirr.us/gym/fight/linkback/pastel7550.png">
-    <img src="https://icirr.us/gym/fight/linkback/pix10050.png"> 
-    <img src="https://icirr.us/gym/fight/linkback/pix7550.png"> 
-    <img src="https://icirr.us/gym/fight/linkback/pix50501.png"> 
-    <img src="https://icirr.us/gym/fight/linkback/pix50502.png">
-    <img src="https://kingdra.net/i/linkback/kingdra-1-50x50.png" height="50">
-    <img src="https://kingdra.net/i/linkback/kingdra-1-75x50.png" height="50">
-    <img src="https://kingdra.net/i/linkback/kingdra-1-100x50.png" height="50">
-</p>
-
-<p align="center">
-    <img src="https://aroceu.com/library/88x31.png" height="31">
-    <img src="https://kingdra.net/links/links88x31.png">
-    <img src="https://icirr.us/gym/fight/linkback/pastel8831.png">
-    <img src="https://icirr.us/gym/fight/linkback/pix8831.png">
-    <img src="https://kingdra.net/i/linkback/kingdra-1-88x31.png" height="31">
-    <img src="https://kingdra.net/i/linkback/kingdra-2-88x31.png" height="31">
-</p>
-
-<p align="center">
-    <img src="https://aroceu.com/library/200x40alt.png" height="40">
-    <img src="https://icirr.us/gym/fight/linkback/pixel20040.png" height="40">
-    <img src="https://kingdra.net/i/linkback/kingdra-2-200x40.png" height="40">
-</p>
-
 <p><u><b><a href="#dotcom">aroceu.com</a></b></u> is my primary domain because anything and everything under this URL feels like a reflection of the things I love, or me, which are intimately connected anyway. I'm a passionate creative and enthusiast (and minimalist) at heart, and everything about and under this domain represent that.</p>
 
 <p><u><b><a href="#kingdra">kingdra.net</a></b></u> is for website-related miscellany that are not intrinsic to my identity and instead may be more resourceful or interesting to others. This includes archived projects at various levels of completion but may not receive regular updates.</p> 
@@ -70,6 +39,7 @@
 
 <h1 id="dotcom">aroceu.com</h1>
 <p>My main website; and where you go if you want to contact me. It&#39;s set up this way - domain and all - because it&#39;s the URL I give out the most. It has all the information I find necessary about me as well as ways to contact me and links to my projects that I find noteworthy to associate under this alias. This includes: my fic, library, gifts, and prompt generators.</p>
+
 <h2>fic (<a href="https://aroceu.com/fic/documentation">full documentation</a>)</h2>
 <ul>
 <li>Where all* of my fic is archived.</li>
