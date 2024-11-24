@@ -17,6 +17,12 @@
 
 <p>My internet name is <b>Arrow Sparrow</b>, named after the Wudai weapon held by Kimiko from Xiaolin Showdown. Xiaolin Showdown is one of my favorite TV shows (not to mention cartoons) and I love Kimiko and birds and long range attacks, much like the in-universe weapon. <i>Arrow</i> is also, incidentally, a homophone of the name I used to go by on the internet.</big>
 
+<h1 id="domains">Domain Overview</h1>
+
+<p>The design for each site represents a level of familiarity, fun, or personal attachment I feel to the page content, while being appropriate for the webpage's intent. I used to redesign my websites all the time when I was younger; but over time as I've learned and developed better skills, my code has become more complex and I'm not as fond of the idea anymore. I prefer seeing how long I can be happy with a design these days.</p>
+
+<p>If you'd like to learn more about each website, click on their link in the list below to take you to further documentation. Check out my <a href="etc#design">design philosphies</a> as well if you're interested in the intention of my design approach.</p>
+
 <h2>Linkback</h2>
 
 <p>Here are linkback buttons for all the sites I made them for. Some are twice the size but scaled down for quality purposes. I would generally prefer if they don't get hotlinked.</p>
@@ -51,12 +57,6 @@
     <img src="https://icirr.us/gym/fight/linkback/pixel20040.png" height="40">
     <img src="https://kingdra.net/i/linkback/kingdra-2-200x40.png" height="40">
 </p>
-
-<h1 id="domains">Domain Overview</h1>
-
-<p>The design for each site represents a level of familiarity, fun, or personal attachment I feel to the page content, while being appropriate for the webpage's intent. I used to redesign my websites all the time when I was younger; but over time as I've learned and developed better skills, my code has become more complex and I'm not as fond of the idea anymore. I prefer seeing how long I can be happy with a design these days.</p>
-
-<p>If you'd like to learn more about each website, click on their link in the list below to take you to further documentation. Check out my <a href="etc#design">design philosphies</a> as well if you're interested in the intention of my design approach.</p>
 
 <p><u><b><a href="#dotcom">aroceu.com</a></b></u> is my primary domain because anything and everything under this URL feels like a reflection of the things I love, or me, which are intimately connected anyway. I'm a passionate creative and enthusiast (and minimalist) at heart, and everything about and under this domain represent that.</p>
 
