@@ -17,6 +17,41 @@
 
 <p>My internet name is <b>Arrow Sparrow</b>, named after the Wudai weapon held by Kimiko from Xiaolin Showdown. Xiaolin Showdown is one of my favorite TV shows (not to mention cartoons) and I love Kimiko and birds and long range attacks, much like the in-universe weapon. <i>Arrow</i> is also, incidentally, a homophone of the name I used to go by on the internet.</big>
 
+<h2>Linkback</h2>
+
+<p>Here are linkback buttons for all the sites I made them for. Some are twice the size but scaled down for quality purposes. I would generally prefer if they don't get hotlinked.</p>
+
+<p align="center">
+    <img src="https://aroceu.com/library/50x50.png" height="50">
+    <img src="https://aroceu.com/library/75x50.png" height="50">
+    <img src="https://aroceu.com/library/100x50.png" height="50">
+    <img src="https://icirr.us/gym/fight/linkback/pastel10050.png" height="50">
+    <img src="https://icirr.us/gym/fight/linkback/pastel5050.png"> 
+    <img src="https://icirr.us/gym/fight/linkback/pastel7550.png">
+    <img src="https://icirr.us/gym/fight/linkback/pix10050.png"> 
+    <img src="https://icirr.us/gym/fight/linkback/pix7550.png"> 
+    <img src="https://icirr.us/gym/fight/linkback/pix50501.png"> 
+    <img src="https://icirr.us/gym/fight/linkback/pix50502.png">
+    <img src="https://kingdra.net/i/linkback/kingdra-1-50x50.png" height="50">
+    <img src="https://kingdra.net/i/linkback/kingdra-1-75x50.png" height="50">
+    <img src="https://kingdra.net/i/linkback/kingdra-1-100x50.png" height="50">
+</p>
+
+<p align="center">
+    <img src="https://aroceu.com/library/88x31.png" height="31">
+    <img src="https://kingdra.net/links/links88x31.png">
+    <img src="https://icirr.us/gym/fight/linkback/pastel8831.png">
+    <img src="https://icirr.us/gym/fight/linkback/pix8831.png">
+    <img src="https://kingdra.net/i/linkback/kingdra-1-88x31.png" height="31">
+    <img src="https://kingdra.net/i/linkback/kingdra-2-88x31.png" height="31">
+</p>
+
+<p align="center">
+    <img src="https://aroceu.com/library/200x40alt.png" height="40">
+    <img src="https://icirr.us/gym/fight/linkback/pixel20040.png" height="40">
+    <img src="https://kingdra.net/i/linkback/kingdra-2-200x40.png" height="40">
+</p>
+
 <h1 id="domains">Domain Overview</h1>
 
 <p>The design for each site represents a level of familiarity, fun, or personal attachment I feel to the page content, while being appropriate for the webpage's intent. I used to redesign my websites all the time when I was younger; but over time as I've learned and developed better skills, my code has become more complex and I'm not as fond of the idea anymore. I prefer seeing how long I can be happy with a design these days.</p>
