@@ -13,7 +13,7 @@
 <p>As a big believer in accessibility and privacy, I have done my best to make my websites as accessible and uninterested in visitor information as possible. This includes:</p>
 
 <ul>
-<li>Most of my websites working responsively for desktop, tablet, and mobile screen resolutions (see <a href="#exceptions">exceptions</a>).
+<li>Most of my websites working responsively for desktop, tablet, and mobile screen resolutions; or having alternative options (see <a href="#exceptions">exceptions</a>).
 <li>Not using tracking cookies for analytics.</li>
 <li>No third-party advertisements, sponsorships, corporate endorsements, or pop-ups.</li>
 <li>Using semantic HTML as much as possible for screenreaders.</li>
@@ -40,9 +40,8 @@
 <p>Due to the way I like to design, a handful of webpages are knowingly not fully accessible, either because they are currently a work in progress, or because of the selective style of the webpage. This includes:</p>
 
 <ul>
-<li>My Pok&eacute;mon website, which has plans for being eventually responsive.</li>
-<li>My indie website portal, which features many blinkies, GIFs, and stamps as a testament to the old web. However, I am selective with the images there, and have tried to use as few flashing/animated images as possible.</li>
-<li>My manifesto page makes light use of adjusted opacity and an animated background for visual effect without disrupting its readability. It is also compatible with reader view as an alternative.</li>
+<li>My music and gift subsections as well as my Pok&eacute;mon website are planned to be responsive, but currently are not.</li>
+<li>My manifesto page makes use of an animated background for visual effect without disrupting its readability. It is also compatible with reader view as an alternative.</li>
 <li>Smaller web projects with varying visual effects may contain their own notes regarding accessibility.</li>
 </ul>
 
