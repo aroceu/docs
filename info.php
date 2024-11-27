@@ -23,10 +23,6 @@
 
 <p>If you'd like to learn more about each website, click on their link in the list below to take you to further documentation. Check out my <a href="etc#design">design philosphies</a> as well if you're interested in the intention of my design approach.</p>
 
-<h2>Linkback</h2>
-
-<p>Here are linkback buttons for all the sites I made them for. Some are twice the size but scaled down for quality purposes. I would generally prefer if they don't get hotlinked.</p>
-
 <p><u><b><a href="#dotcom">aroceu.com</a></b></u> is my primary domain because anything and everything under this URL feels like a reflection of the things I love, or me, which are intimately connected anyway. I'm a passionate creative and enthusiast (and minimalist) at heart, and everything about and under this domain represent that.</p>
 
 <p><u><b><a href="#kingdra">kingdra.net</a></b></u> is for website-related miscellany that are not intrinsic to my identity and instead may be more resourceful or interesting to others. This includes archived projects at various levels of completion but may not receive regular updates.</p> 
@@ -38,14 +34,14 @@
 <p><u><b>aroceu.cloud</b></u> is a vanity URL for my Bluesky account because I love microblogging and aroceu.com is too corporate-looking as a username for me. "cloud" is much cuter and fits in with the conceit of a ~blue sky~. Additionally, with the more technological idea of a cloud, I also use this domain for my email. Any emails sent to my other domains redirect here.</p>
 
 <h1 id="dotcom">aroceu.com</h1>
-<p>My main website; and where you go if you want to contact me. It&#39;s set up this way - domain and all - because it&#39;s the URL I give out the most. It has all the information I find necessary about me as well as ways to contact me and links to my projects that I find noteworthy to associate under this alias. This includes: my fic, library, gifts, and prompt generators.</p>
+<p>My main website; and where you go if you want to contact me. It&#39;s set up this way - domain and all - because it&#39;s the URL I give out the most. It has all the information I find necessary about me as well as ways to contact me and links to the creative projects that are close or relevant to me personally. This includes: my fic, library, gifts, and prompt generators.</p>
 
 <h2>fic (<a href="https://aroceu.com/fic/documentation">full documentation</a>)</h2>
 <ul>
 <li>Where all* of my fic is archived.</li>
 <li>Runs on WordPress, uses a good amount of plugins and a custom theme. </li>
 <li>Will have commissioned banners  one day, but for now enjoy the star pattern I made in like 5 minutes in Photoshop.</li>
-<li>Each fic has its own page and can be sorted, filtered, and searched for in a variety of ways. WIPs have a custom template, Fic pages emulate AO3&#39;s readerstyle with personal flourishes, and allow you to bookmark the fic on AO3 (if you&#39;d like), a mirrored link at AO3 (if it exists), and a social media promotional post (if it exists).</li>
+<li>Each fic has its own page and can be sorted, filtered, and searched for in a variety of ways. WIPs have a custom template, fic pages emulate AO3&#39;s readerstyle with personal flourishes, and allow you to bookmark the fic on AO3 (if you&#39;d like), a mirrored link at AO3 (if it exists), and a social media promotional post (if it exists).</li>
 <li>Additional features: A mobile menu/filter option, night mode</li>
 </ul>
 <p>Includes: an about section (writer version), related works, my transformative works policy. </p>
@@ -103,13 +99,13 @@
 <h2>archived projects</h2>
 <h4>this is our thing (em)</h4>
 <p>A webshrine dedicated to the relationship between characters from <em>the Social Network</em>, Mark/Eduardo. I had a lot of ambitions to make this shrine, but I only got through their character bios before my interest in it weaned down. But it was my first attempt at making one, however unsuccessful.</p>
-<p>The layout has custom edited banners with circular screenshots from the movie on every page, and is designed largely in black and white to reflect a website that is &quot;plain and simple. No Disneyland, no &#39;Live Nude Girls&#39;...&quot;</p>
+<p>The layout has custom edited banners with circular screenshots from the movie on every page. It is designed largely in black and white to reflect a website that is &quot;plain and simple. No Disneyland, no &#39;Live Nude Girls&#39;...&quot;</p>
 <h4>know where to run (kwtr)</h4>
-<p>An interactive fanfiction my and my Sports Anime Shipping Olympics (SASO) team made in 2016. I coded the CSS and HTML, my teammate Icie coded the Javascript. </p>
+<p>An interactive fanfiction my and my Sports Anime Shipping Olympics (SASO) team made in 2015. I coded the CSS and HTML, my teammate Icie coded the Javascript. </p>
 <p>The website allows you to pick any of 6 different vignettes in any order, with a 7th in the center that is unclickable until all 6 have been clicked. The 7th is the static end, and upon closing out, the visitor gets sent back to the splash page.</p>
 
 <h1 id="icirrus">icirr.us</h1>
-<p>Also known as &quot;Masterball,&quot; this is my Pok&eacute;mon website where I showcase everything relevant to me and my love for Pok&eacute;mon. This site is separated into two major parts, &quot;Trainer&quot; (parties of my main game playthroughs), and &quot;Gym&quot; (Pok&eacute;mon Go and website-related stuff). More will be added for Pok&eacute;Rogue/fangames and TCG.</p>
+<p>Also known as &quot;Masterball,&quot; this is my Pok&eacute;mon website where I showcase everything relevant to my love for Pok&eacute;mon. This site is separated into two major parts, &quot;Trainer&quot; (parties of my main game playthroughs), and &quot;Gym&quot; (Pok&eacute;mon Go and website-related stuff). More will be added for Pok&eacute;Rogue/fangames and TCG.</p>
 <p>The front page is designed like a masterball in a clean pastel style, which translates across the trainer pages. The gym pages, meanwhile, are a little more old school.</p>
 <h2>trainer</h2>
 <p>An archive of the mainline games I&#39;ve played, and my teams on the games. On the landing page, there is a link to an &quot;About&quot; section along with an icon of the type of NPC I would be in game, a Ranger (female, ORAS). A small pop-up with my OT name, top 6 favorite Pok&eacute;mon in a team, my trainer ID in my game of choice, and my personality/nature (mild, likes to fight), as well as a brief history, are linked internally on this page.</p>
