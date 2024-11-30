@@ -53,7 +53,7 @@
 
 <p>I commissioned <a href="https://uwibbit.uwu.ai/">Frog</a> for the chibi art and icons of Pat and Pran from Bad Buddy.</p>
 
-<p>My indie website portal features art by <a href="https://unsplash.com/@spaceboy">Henrik Dønnestad</a>. My manifesto page features art by <a href="https://waneella.tumblr.com/">waneella</a> on Tumblr. My collection of links features <i>The Sea at Les Saintes-Maries-de-la-Mer</i> (1888) by Vincent Van Gogh.</p>
+<p>My indie website portal features art by <a href="https://unsplash.com/@spaceboy">Henrik Dønnestad</a>, as well as commissioned art by <a href="https://bsky.app/profile/azumina.bsky.social">azumina</a> and <a href="https://bsky.app/profile/lilkikibat.bsky.social">lilkikibat</a>. My manifesto page features art by <a href="https://waneella.tumblr.com/">waneella</a> on Tumblr. My collection of links features <i>The Sea at Les Saintes-Maries-de-la-Mer</i> (1888) by Vincent Van Gogh.</p>
 
 <p>Various stamps, blinkies, pixels, and background images were found by others and compiled uncredited for free use; I claim no artistic ownership of them and only use them decoratively. Pok&eacute;mon trainer sprites are pixel art from <a href="https://play.pokemonshowdown.com/sprites/trainers/">Pok&eacute;mon Showdown</a>. Any other graphics with recognizable characters, people, or visual motifs are either official art/photography of the title in question, and/or created or modified by me in some way for a specific aesthetic purpose. </p>
 
