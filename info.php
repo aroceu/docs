@@ -89,7 +89,7 @@
 
 <h1 id="kingdra">kingdra.net</h1>
 
-<p>kingdra.net hosts my mini projects, projects that are more resourceful than they are about me, and (archived) one-time projects.</p>
+<p>kingdra.net hosts my mini projects, projects that are more resourceful than they are about me, and (archived) one-time projects. Full documentation for the site can be found <a href="https://kingdra.net/docs/">here</a>.</p>
 <h2>index</h2>
 <p>A network of things pertaining to myself as a website-builder. The top navigation contains links to my main projects, while the bottom navigation contains links to internal pages, including: universal site updates, cliques, map, faq, and a guestbook.</p>
 <p>The design features heavy image usage, primarily in the form of old school online stamps, buttons, and blinkies. The internal pages change via a central iframe. This page also contains my latest status from status.cafe.</p>
@@ -106,9 +106,10 @@
 
 <h1 id="icirrus">icirr.us</h1>
 <p>Also known as &quot;Masterball,&quot; this is my Pok&eacute;mon website where I showcase everything relevant to my love for Pok&eacute;mon. This site is separated into two major parts, &quot;Trainer&quot; (parties of my main game playthroughs), and &quot;Gym&quot; (Pok&eacute;mon Go and website-related stuff). More will be added for Pok&eacute;Rogue/fangames and TCG.</p>
-<p>The front page is designed like a masterball in a clean pastel style, which translates across the trainer pages. The gym pages, meanwhile, are a little more old school.</p>
+<p>The front page is designed like a masterball in a clean pastel style, which translates across the trainer pages and the landing navigation page. The gym pages, meanwhile, are a little more old school.</p>
+<p>Full documentation for Masterball can be found <a href="https://icirr.us/docs">here</a>.</p>
 <h2>trainer</h2>
-<p>An archive of the mainline games I&#39;ve played, and my teams on the games. On the landing page, there is a link to an &quot;About&quot; section along with an icon of the type of NPC I would be in game, a Ranger (female, ORAS). A small pop-up with my OT name, top 6 favorite Pok&eacute;mon in a team, my trainer ID in my game of choice, and my personality/nature (mild, likes to fight), as well as a brief history, are linked internally on this page.</p>
+<p>An archive of the mainline games I&#39;ve played, and my teams on the games. On the landing page, there is a link to an &quot;About&quot; section along with an icon of the type of NPC I would be in game, a Ranger (female, ORAS). This page also links to a biographical section about my relationship with Pok&eacute;mon, as well as my favorites. </p>
 <p>Each game page is color themed by its game, e.g. Ruby is red, HeartGold is a light yellow, and so on. As the platform for each changes, some stylistic elements of the page may be added to reflect this: games on the 3DS have a &quot;3D&quot; effect, while Switch games have borders on both sides. My trainer selection of choice (usually female) is on the page, along with the region, year I played it, and a small blurb about my relationship with the game. At the bottom is a footer navigating between all the games in the &quot;trainer&quot; section.</p>
 <p>Each party Pok&eacute;mon has listed:</p>
 <ul>
@@ -141,13 +142,13 @@
 <li>Tinkaton (not a gif ☹ ): Linkback buttons</li>
 </ul>
 <h4>bag</h4>
-<p>A fancy sitemap. It initially opens like a &quot;bag&quot; (Javascript), with options for internal pages:</p>
+<p>An internal quick-link interactive portion, with options for::</p>
 <ul>
 <li>Bicycle (just for flavor text)</li>
-<li>Town Map (the actual map)</li>
+<li>Town Map (takes you to the map)</li>
 <li>Vs. Seeker (takes you to trainer)</li>
 <li>Masterball x1 (takes you back to index)</li>
-<li>Close Bag (takes you back to gym)</li>
+<li>Close Bag (takes you back to the gym menu)</li>
 </ul>
 <h4>Pok&eacute;mon Go</h4>
 <p>My Pok&eacute;mon Go archive. Designed reminiscent of the game; my team (Valor) is embedded into the theme as well. Includes:</p>

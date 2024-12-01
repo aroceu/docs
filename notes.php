@@ -40,7 +40,7 @@
 <p>Due to the way I like to design, a handful of webpages are knowingly not fully accessible, either because they are currently a work in progress, or because of the selective style of the webpage. This includes:</p>
 
 <ul>
-<li>My music and gift subsections are planned to be responsive, but currently are not.</li>
+<li>My music subsection is built with tables so its responsive appeal is limited due to that. However, its content is still readable and contains a notice when viewing on less than optimal screen sizes.</li>
 <li>My manifesto page makes use of an animated background for visual effect without disrupting its readability. It is also compatible with reader view as an alternative.</li>
 <li>Smaller web projects with varying visual effects may contain their own notes regarding accessibility.</li>
 </ul>

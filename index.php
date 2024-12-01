@@ -3,7 +3,7 @@
     <?php include('navigation.php'); ?>
 
 <h1>Documentation</h1>
-<h3>Last updated: November 19, 2024</h3>
+<h3>Last updated: December 1, 2024</h3>
 
 <blockquote><b><i>(n.)</i></b> any communicable material that is used to describe, explain or instruct regarding some attributes of an object, system or procedure, such as its parts, assembly, installation, maintenance, and use (<a href="https://en.wikipedia.org/wiki/Documentation">wikipedia</a>)</blockquote>
 
