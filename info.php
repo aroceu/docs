@@ -88,8 +88,9 @@
 <p>My former list of fandoms, removed sometime between 2021 to 2023, I don&#39;t remember. Mostly because I got so tired of the design that I felt happier with it offline.</p>
 
 <h1 id="kingdra">kingdra.net</h1>
+<h3><a href="https://kingdra.net/docs/">Documentation</a></h3>
 
-<p>kingdra.net hosts my mini projects, projects that are more resourceful than they are about me, and (archived) one-time projects. Full documentation for the site can be found <a href="https://kingdra.net/docs/">here</a>.</p>
+<p>kingdra.net hosts my mini projects, projects that are more resourceful than they are about me, and (archived) one-time projects.</p>
 <h2>index</h2>
 <p>A network of things pertaining to myself as a website-builder. The top navigation contains links to my main projects, while the bottom navigation contains links to internal pages, including: universal site updates, cliques, map, faq, and a guestbook.</p>
 <p>The design features heavy image usage, primarily in the form of old school online stamps, buttons, and blinkies. The internal pages change via a central iframe. This page also contains my latest status from status.cafe.</p>
@@ -105,9 +106,9 @@
 <p>The website allows you to pick any of 6 different vignettes in any order, with a 7th in the center that is unclickable until all 6 have been clicked. The 7th is the static end, and upon closing out, the visitor gets sent back to the splash page.</p>
 
 <h1 id="icirrus">icirr.us</h1>
+<h3><a href="https://icirr.us/docs">Documentation</a></h3>
 <p>Also known as &quot;Masterball,&quot; this is my Pok&eacute;mon website where I showcase everything relevant to my love for Pok&eacute;mon. This site is separated into two major parts, &quot;Trainer&quot; (parties of my main game playthroughs), and &quot;Gym&quot; (Pok&eacute;mon Go and website-related stuff). More will be added for Pok&eacute;Rogue/fangames and TCG.</p>
 <p>The front page is designed like a masterball in a clean pastel style, which translates across the trainer pages and the landing navigation page. The gym pages, meanwhile, are a little more old school.</p>
-<p>Full documentation for Masterball can be found <a href="https://icirr.us/docs">here</a>.</p>
 <h2>trainer</h2>
 <p>An archive of the mainline games I&#39;ve played, and my teams on the games. On the landing page, there is a link to an &quot;About&quot; section along with an icon of the type of NPC I would be in game, a Ranger (female, ORAS). This page also links to a biographical section about my relationship with Pok&eacute;mon, as well as my favorites. </p>
 <p>Each game page is color themed by its game, e.g. Ruby is red, HeartGold is a light yellow, and so on. As the platform for each changes, some stylistic elements of the page may be added to reflect this: games on the 3DS have a &quot;3D&quot; effect, while Switch games have borders on both sides. My trainer selection of choice (usually female) is on the page, along with the region, year I played it, and a small blurb about my relationship with the game. At the bottom is a footer navigating between all the games in the &quot;trainer&quot; section.</p>
