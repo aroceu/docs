@@ -33,6 +33,10 @@
 
 <p><u><b>aroceu.cloud</b></u> is a vanity URL for my Bluesky account because I love microblogging and aroceu.com is too corporate-looking as a username for me. "cloud" is much cuter and fits in with the conceit of a ~blue sky~. Additionally, with the more technological idea of a cloud, I also use this domain for my email. Any emails sent to my other domains redirect here.</p>
 
+<hr />
+
+<p>I've indicated down below whether or not a website accepts affiliation &mdash; that is, I will agree to mutually link you to the site and back. I indicate this mostly because my main site does not accept affiliation since it's my most personal one; but all my other sites do, because they're more relevant to my presence on the independent web. To me, anyway. My personal site is my personal site and just that; plus, I suppose I have far more other types of friends than those who make websites. However, I'm aware of its vastness which is why I've made linkback buttons &mdash; but I'd link you back from kingdra.net instead of aroceu.com, just due to my own neuroses.</p>
+
 <h1 id="dotcom">aroceu.com</h1>
 <p>My main website; and where you go if you want to contact me. It&#39;s set up this way - domain and all - because it&#39;s the URL I give out the most. It has all the information I find necessary about me as well as ways to contact me and links to the creative projects that are close or relevant to me personally. This includes: my fic, library, gifts, and prompt generators.</p>
 
@@ -46,6 +50,13 @@
 </ul>
 <p>Includes: an about section (writer version), related works, my transformative works policy. </p>
 <p><small>* Not really, but for the purposes of this documentation the sentiment is there.</small></p>
+<h2>(b)log</h2>
+<ul>
+    <li>What I'm currently up to online, in fandom, and sometimes in other areas of my life, like the real part of it</li>
+    <li>Runs on <a href="https://zonelets.net/">Zonelets</a> with a personally customized theme</li>
+    <li>Uses a <a href="https://projects.verou.me/css3patterns/#lined-paper">notebook CSS pattern</a> (which kingdra.net also uses) as a testament to my love for notebooks and reminiscent of a past layou. Incidentally looks like a legal pad.</li>
+    <li>Post format inspired by <a href="https://nownownow.com/about">nownownow</a></li>
+</ul>
 <h2>library</h2>
 <ul>
 <li>Where I keep track of the various forms of entertainment that I enjoy</li>
@@ -94,6 +105,7 @@
 <h2>index</h2>
 <p>A network of things pertaining to myself as a website-builder. The top navigation contains links to my main projects, while the bottom navigation contains links to internal pages, including: universal site updates, cliques, map, faq, and a guestbook.</p>
 <p>The design features heavy image usage, primarily in the form of old school online stamps, buttons, and blinkies. The internal pages change via a central iframe. This page also contains my latest status from status.cafe.</p>
+<p>This site accepts affiliation.</p>
 <h2>links </h2>
 <p>An archive of links, like bookmarks, for me to keep track of links I&#39;ve saved over the years (and presently and in the future). Also part of my passion project to the old school internet, which is having a &quot;links&quot; page full of fun and interesting resources, though mine is a bit more expansive than that. Organized by topical category.</p>
 <p>Each page is contained in an iFrame, so separate pages of links can be opened in a simpler page for independent viewing if needed. The mobile version is only text on a white background, and navigates between the internal pages as separate pages without the iFrame.</p>
@@ -162,6 +174,21 @@
 <li>A large pixel list of Pok&eacute;mon I have caught/not caught, indicated by transparency</li>
 </ul>
 <h4>run</h4>
-<p>Exit links out.</p></ul>
+<p>Exit links out. Accepts affiliation.</p></ul>
+
+<h1 id="fandomring">fandomr.ing</h1>
+
+<p>A webring of personal sites for anyone who considers themselves in fandom. I made this webring after browsing through lists after lists myself and not finding the type of fandom webring I would be interested in. At the same time, I'd been entertaining the idea of making a webring &mdash; and then the obvious occurred to me. So now we have the fandom ring.</p>
+
+<p>Features:</p>
+<ul>
+    <li>The <a href="">Onion Ring</a> script to manage the webring</li>
+    <li>Stylization that feels both nostalgic and timeless</li>
+    <li>Raw-coded</li>
+    <li>First main use of wavy underline</li>
+    <li>Making good use out of my paid ProtonMail account</li>
+    <li>Includes: Code display example (it joined its own ring), an "about" and "ideas" page for beginners</li>
+    <li>Accepts affiliation</li>
+</ul>
 
 <?php include('footer.php'); ?>
