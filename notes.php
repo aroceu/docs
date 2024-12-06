@@ -49,7 +49,7 @@
 
 <p>I am not making any money off of my websites nor do I ever intend to. It's a hobby, not a job for me.</p>
 
-<p>My websites are hand-coded by me as much as possible. Exceptions to this include websites that run on <a href="https://wordpress.org">WordPress</a> and <a href="https://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a> as content management systems. Previous CMSes include <a href="https://picocms.org">Pico</a> for one-page websites and <a href="https://gitlab.com/tfl-php-scripts/enthusiast">Enthusiast</a> for fanlistings/collectives. All designs are made by me, with various sources of inspiration.</p>
+<p>My websites are hand-coded by me as much as possible. Exceptions to this include websites that run on <a href="https://wordpress.org">WordPress</a>, <a href="https://zonelets.net">Zonelets</a>, and <a href="https://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a> as content management systems. Previous CMSes include <a href="https://picocms.org">Pico</a> for one-page websites and <a href="https://gitlab.com/tfl-php-scripts/enthusiast">Enthusiast</a> for fanlistings/collectives. All designs are made by me, with various sources of inspiration.</p>
 
 <p>I commissioned <a href="https://uwibbit.uwu.ai/">Frog</a> for the chibi art and icons of Pat and Pran from Bad Buddy.</p>
 
