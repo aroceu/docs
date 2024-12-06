@@ -37,10 +37,9 @@
 
 <hr />
 
-<p>I've indicated down below whether or not a website accepts affiliation &mdash; that is, I will agree to mutually link you to the site and back. I indicate this mostly because my main site does not accept affiliation since it's my most personal one; but all my other sites do, because they're more relevant to my presence on the independent web. To me, anyway. My personal site is my personal site and just that; plus, I suppose I have far more other types of friends than those who make websites. However, I'm aware of its vastness which is why I've made linkback buttons &mdash; but I'd link you back from kingdra.net instead of aroceu.com, just due to my own neuroses.</p>
-
 <h1 id="dotcom">aroceu.com</h1>
 <p>My main website; and where you go if you want to contact me. It&#39;s set up this way - domain and all - because it&#39;s the URL I give out the most. It has all the information I find necessary about me as well as ways to contact me and links to the creative projects that are close or relevant to me personally. This includes: my fic, library, gifts, and prompt generators.</p>
+<p>This site also has linkback buttons, though not a dedicated exit links out page. Friends and affiliates get linked out through kingdra.net.</p>
 
 <h2>fic (<a href="https://aroceu.com/fic/documentation">full documentation</a>)</h2>
 <ul>
@@ -67,7 +66,7 @@
 <li>Features: collapsible menus, a collapsible gallery, bad color contrast, and an over-abundance of patterned backgrounds</li>
 <li>Inspired by <a href="https://cloverso.me">Clover's</a> <a href="https://catso.neocities.org/library/">library</a>
 </ul>
-<p>Includes: main library, &quot;the list&quot; (to do), favorites, log (current)</p>
+<p>Includes: main library, &quot;the list&quot; (to do), favorites, log (current year)</p>
 <h2>gifts (<a href="https://aroceu.com/gifts/documentation">full documentation</a>)</h2>
 <ul>
     <li>A repository of the creative and largely fannish works people have made for me over the years. This includes commissions I've paid for (art), gifts from my friends and exchange events (fic and art), and my over-investment in Splatoon commissions specifically.</li>
@@ -92,7 +91,7 @@
 <h4>tsn</h4>
 <p>A list of quick links of my Social Network brainrot, on the internet.</p>
 <h4>manifesto</h4>
-<p>An essay on the meaning and importance of independent website curation to me. Features art by <a href="https://waneella.tumblr.com/">waneella</a> on Tumblr</p>
+<p>An essay on the meaning and importance of independent website curation to me. Features art by <a href="https://waneella.tumblr.com/">waneella</a> on Tumblr.</p>
 <h2>archived</h2>
 <p>These are older sections that are no longer online.</p>
 <h4>stuff</h4>
@@ -108,23 +107,23 @@
 <p>A network of things pertaining to myself as a website-builder. The top navigation contains links to my main projects, while the bottom navigation contains links to internal pages, including: universal site updates, cliques, map, faq, and a guestbook.</p>
 <p>The design features heavy image usage, primarily in the form of old school online stamps, buttons, and blinkies. The internal pages change via a central iframe, which also utilizes a <a href="https://projects.verou.me/css3patterns/#lined-paper">notebook CSS pattern</a> for the background. This page contains my latest status from status.cafe.</p>
 <p>The background is art by  <a href="https://unsplash.com/@spaceboy">Henrik Dønnestad</a>. The desktop version of this page also features commissioned art by <a href="https://bsky.app/profile/azumina.bsky.social">azumina</a> and <a href="https://bsky.app/profile/lilkikibat.bsky.social">lilkikibat</a>.
-<p>This site accepts affiliation.</p>
+<p>I link out to both friends and personal sites that I think are cool from here. This is my primary link-out space.</p>
 <h2>links </h2>
 <p>An archive of links, like bookmarks, for me to keep track of links I&#39;ve saved over the years (and presently and in the future). Also part of my passion project to the old school internet, which is having a &quot;links&quot; page full of fun and interesting resources, though mine is a bit more expansive than that. Organized by topical category.</p>
-<p>Each page is contained in an iFrame, so separate pages of links can be opened in a simpler page for independent viewing if needed. The mobile version is only text on a white background, and navigates between the internal pages as separate pages without the iFrame.</p>
+<p>Each page is contained in an iframe, so separate pages of links can be opened in a simpler page for independent viewing if needed. The mobile version is only text on a white background, and navigates between the internal pages as separate pages without the iframe.</p>
 <p>Features <i>The Sea at Les Saintes-Maries-de-la-Mer</i> (1888) by Vincent Van Gogh.</p>
 <h2>archived projects</h2>
 <h4>this is our thing (em)</h4>
 <p>A webshrine dedicated to the relationship between characters from <em>the Social Network</em>, Mark/Eduardo. I had a lot of ambitions to make this shrine, but I only got through their character bios before my interest in it weaned down. But it was my first attempt at making one, however unsuccessful.</p>
 <p>The layout has custom edited banners with circular screenshots from the movie on every page. It is designed largely in black and white to reflect a website that is &quot;plain and simple. No Disneyland, no &#39;Live Nude Girls&#39;...&quot;</p>
 <h4>know where to run (kwtr)</h4>
-<p>An interactive fanfiction my and my Sports Anime Shipping Olympics (SASO) team made in 2015. I coded the CSS and HTML, my teammate Icie coded the Javascript. </p>
+<p>An interactive fanfiction my and my Sports Anime Shipping Olympics (SASO) team made in 2015. I coded the CSS and HTML, and my teammate Icie coded the Javascript. </p>
 <p>The website allows you to pick any of 6 different vignettes in any order, with a 7th in the center that is unclickable until all 6 have been clicked. The 7th is the static end, and upon closing out, the visitor gets sent back to the splash page.</p>
 
 <h1 id="icirrus">icirr.us</h1>
 <h3><a href="https://icirr.us/docs">Documentation</a></h3>
 <p>Also known as &quot;Masterball,&quot; this is my Pok&eacute;mon website where I showcase everything relevant to my love for Pok&eacute;mon. This site is separated into two major parts, &quot;Trainer&quot; (parties of my main game playthroughs), and &quot;Gym&quot; (Pok&eacute;mon Go and website-related stuff). More will be added for Pok&eacute;Rogue/fangames and TCG.</p>
-<p>The front page is designed like a masterball in a clean pastel style, which translates across the trainer pages and the landing navigation page. The gym pages, meanwhile, are a little more old school.</p>
+<p>The front page is designed like a masterball in a clean pastel style, which translates across the trainer pages, the map, and the landing navigation page. The gym pages, meanwhile, are a little more old school.</p>
 <h2>trainer</h2>
 <p>An archive of the mainline games I&#39;ve played, and my teams on the games. On the landing page, there is a link to an &quot;About&quot; section along with an icon of the type of NPC I would be in game, a Ranger (female, ORAS). This page also links to a biographical section about my relationship with Pok&eacute;mon, as well as my favorites. </p>
 <p>Each game page is color themed by its game, e.g. Ruby is red, HeartGold is a light yellow, and so on. As the platform for each changes, some stylistic elements of the page may be added to reflect this: games on the 3DS have a &quot;3D&quot; effect, while Switch games have borders on both sides. My trainer selection of choice (usually female) is on the page, along with the region, year I played it, and a small blurb about my relationship with the game. At the bottom is a footer navigating between all the games in the &quot;trainer&quot; section.</p>
@@ -159,7 +158,7 @@
 <li>Tinkaton (not a gif ☹ ): Linkback buttons</li>
 </ul>
 <h4>bag</h4>
-<p>An internal quick-link interactive portion, with options for::</p>
+<p>An internal quick-link interactive portion, with options for:</p>
 <ul>
 <li>Bicycle (just for flavor text)</li>
 <li>Town Map (takes you to the map)</li>
@@ -178,7 +177,7 @@
 <li>A large pixel list of Pok&eacute;mon I have caught/not caught, indicated by transparency</li>
 </ul>
 <h4>run</h4>
-<p>Exit links out. Accepts affiliation.</p></ul>
+<p>Exit links out.</p></ul>
 
 <h1 id="fandomring">fandomr.ing</h1>
 
@@ -191,8 +190,7 @@
     <li>Raw-coded</li>
     <li>First main use of wavy underline</li>
     <li>Making good use out of my paid ProtonMail account</li>
-    <li>Includes: Code display example (it joined its own ring), an "about" and "ideas" page for beginners</li>
-    <li>Accepts affiliation</li>
+    <li>Includes: Code display example (it joined its own ring), an "about" and "ideas" page for beginners, sandpaper background texture, and washi tape looking borders</li>
 </ul>
 
 <?php include('footer.php'); ?>
