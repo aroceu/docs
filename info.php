@@ -23,6 +23,8 @@
 
 <p>If you'd like to learn more about each website, click on their link in the list below to take you to further documentation. Check out my <a href="etc#design">design philosphies</a> as well if you're interested in the intention of my design approach.</p>
 
+<p>All of my websites and their subpages abide by the idea of being a <a href="https://www.wendycarlos.com/live.html">living page</a> &mdash; that is, it will never be finished, and therefore will always be a work in progress. The only exception to this are my archived projects, which I, for the most part, do not plan on really working on again.</p>
+
 <p><u><b><a href="#dotcom">aroceu.com</a></b></u> is my primary domain because anything and everything under this URL feels like a reflection of the things I love, or me, which are intimately connected anyway. I'm a passionate creative and enthusiast (and minimalist) at heart, and everything about and under this domain represent that.</p>
 
 <p><u><b><a href="#kingdra">kingdra.net</a></b></u> is for website-related miscellany that are not intrinsic to my identity and instead may be more resourceful or interesting to others. This includes archived projects at various levels of completion but may not receive regular updates.</p> 
