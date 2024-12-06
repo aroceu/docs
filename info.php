@@ -23,13 +23,13 @@
 
 <p>If you'd like to learn more about each website, click on their link in the list below to take you to further documentation. Check out my <a href="etc#design">design philosphies</a> as well if you're interested in the intention of my design approach.</p>
 
-<p>All of my websites and their subpages abide by the idea of being a <a href="https://www.wendycarlos.com/live.html">living page</a> &mdash; that is, it will never be finished, and therefore will always be a work in progress. The only exception to this are my archived projects, which I, for the most part, do not plan on really working on again.</p>
+<p>All of my websites and webpages abide by the idea of being a <a href="https://www.wendycarlos.com/live.html">living page</a> &mdash; that is, they will never be finished, and therefore will always be a work in progress. The only exception to this are my archived projects, which I, for the most part, do not plan on really working on again.</p>
 
 <p><u><b><a href="#dotcom">aroceu.com</a></b></u> is my primary domain because anything and everything under this URL feels like a reflection of the things I love, or me, which are intimately connected anyway. I'm a passionate creative and enthusiast (and minimalist) at heart, and everything about and under this domain represent that.</p>
 
 <p><u><b><a href="#kingdra">kingdra.net</a></b></u> is for website-related miscellany that are not intrinsic to my identity and instead may be more resourceful or interesting to others. This includes archived projects at various levels of completion but may not receive regular updates.</p> 
 
-<p>The front page is my indie website portal - essentially, centered on my participation on the independent web rather than me. This includes updates and site maps (as I have multiple websites), cliques (as they're just fun for me to join), a FAQ (because why not), other indie sites I think are cool, and a guestbook.</p>
+<p>The front page is my indie website portal - essentially, centered on my participation on the independent web rather than me. This includes updates and site maps (as I have multiple websites), cliques (as they're just fun for me to join), a FAQ (because why not), ideas for the future (maybe), other indie sites I think are cool, and a guestbook.</p>
 
 <p><u><b><a href="#icirrus">icirr.us</a></b></u> is where everything related to my love of Pok&eacute;mon goes. I've loved Pok&eacute;mon longer than I've been aroceu, so this has its own domain.</p>
 
@@ -56,7 +56,7 @@
 <ul>
     <li>What I'm currently up to online, in fandom, and sometimes in other areas of my life, like the real part of it</li>
     <li>Runs on <a href="https://zonelets.net/">Zonelets</a> with a personally customized theme</li>
-    <li>Uses a <a href="https://projects.verou.me/css3patterns/#lined-paper">notebook CSS pattern</a> (which kingdra.net also uses) as a testament to my love for notebooks and reminiscent of a past layou. Incidentally looks like a legal pad.</li>
+    <li>Uses a <a href="https://projects.verou.me/css3patterns/#lined-paper">notebook CSS pattern</a> as a testament to my love for notebooks and reminiscent of a past layout. Incidentally looks like a legal pad.</li>
     <li>Post format inspired by <a href="https://nownownow.com/about">nownownow</a></li>
 </ul>
 <h2>library</h2>
@@ -92,7 +92,7 @@
 <h4>tsn</h4>
 <p>A list of quick links of my Social Network brainrot, on the internet.</p>
 <h4>manifesto</h4>
-<p>An essay on the meaning and importance of independent website curation to me.</p>
+<p>An essay on the meaning and importance of independent website curation to me. Features art by <a href="https://waneella.tumblr.com/">waneella</a> on Tumblr</p>
 <h2>archived</h2>
 <p>These are older sections that are no longer online.</p>
 <h4>stuff</h4>
@@ -106,11 +106,13 @@
 <p>kingdra.net hosts my mini projects, projects that are more resourceful than they are about me, and (archived) one-time projects.</p>
 <h2>index</h2>
 <p>A network of things pertaining to myself as a website-builder. The top navigation contains links to my main projects, while the bottom navigation contains links to internal pages, including: universal site updates, cliques, map, faq, and a guestbook.</p>
-<p>The design features heavy image usage, primarily in the form of old school online stamps, buttons, and blinkies. The internal pages change via a central iframe. This page also contains my latest status from status.cafe.</p>
+<p>The design features heavy image usage, primarily in the form of old school online stamps, buttons, and blinkies. The internal pages change via a central iframe, which also utilizes a <a href="https://projects.verou.me/css3patterns/#lined-paper">notebook CSS pattern</a> for the background. This page contains my latest status from status.cafe.</p>
+<p>The background is art by  <a href="https://unsplash.com/@spaceboy">Henrik Dønnestad</a>. The desktop version of this page also features commissioned art by <a href="https://bsky.app/profile/azumina.bsky.social">azumina</a> and <a href="https://bsky.app/profile/lilkikibat.bsky.social">lilkikibat</a>.
 <p>This site accepts affiliation.</p>
 <h2>links </h2>
 <p>An archive of links, like bookmarks, for me to keep track of links I&#39;ve saved over the years (and presently and in the future). Also part of my passion project to the old school internet, which is having a &quot;links&quot; page full of fun and interesting resources, though mine is a bit more expansive than that. Organized by topical category.</p>
 <p>Each page is contained in an iFrame, so separate pages of links can be opened in a simpler page for independent viewing if needed. The mobile version is only text on a white background, and navigates between the internal pages as separate pages without the iFrame.</p>
+<p>Features <i>The Sea at Les Saintes-Maries-de-la-Mer</i> (1888) by Vincent Van Gogh.</p>
 <h2>archived projects</h2>
 <h4>this is our thing (em)</h4>
 <p>A webshrine dedicated to the relationship between characters from <em>the Social Network</em>, Mark/Eduardo. I had a lot of ambitions to make this shrine, but I only got through their character bios before my interest in it weaned down. But it was my first attempt at making one, however unsuccessful.</p>

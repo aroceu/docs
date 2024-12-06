@@ -49,11 +49,9 @@
 
 <p>I am not making any money off of my websites nor do I ever intend to. It's a hobby, not a job for me.</p>
 
-<p>My websites are hand-coded by me as much as possible. Exceptions to this include websites that run on <a href="https://wordpress.org">WordPress</a>, <a href="https://zonelets.net">Zonelets</a>, and <a href="https://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a> as content management systems. Previous CMSes include <a href="https://picocms.org">Pico</a> for one-page websites and <a href="https://gitlab.com/tfl-php-scripts/enthusiast">Enthusiast</a> for fanlistings/collectives. All designs are made by me, with various sources of inspiration.</p>
+<p>My websites are hand-coded by me as much as possible. Exceptions to this include websites that run on content management systems, which are usually credited on the specific site. Previous CMSes include <a href="https://picocms.org">Pico</a> for one-page websites and <a href="https://gitlab.com/tfl-php-scripts/enthusiast">Enthusiast</a> for fanlistings/collectives. All designs are made by me, with various sources of inspiration.</p>
 
 <p>I commissioned <a href="https://uwibbit.uwu.ai/">Frog</a> for the chibi art and icons of Pat and Pran from Bad Buddy.</p>
-
-<p>My indie website portal features art by <a href="https://unsplash.com/@spaceboy">Henrik Dønnestad</a>, as well as commissioned art by <a href="https://bsky.app/profile/azumina.bsky.social">azumina</a> and <a href="https://bsky.app/profile/lilkikibat.bsky.social">lilkikibat</a>. My manifesto page features art by <a href="https://waneella.tumblr.com/">waneella</a> on Tumblr. My collection of links features <i>The Sea at Les Saintes-Maries-de-la-Mer</i> (1888) by Vincent Van Gogh.</p>
 
 <p>Various stamps, blinkies, pixels, and background images were found by others and compiled uncredited for free use; I claim no artistic ownership of them and only use them decoratively. Pok&eacute;mon trainer sprites are pixel art from <a href="https://play.pokemonshowdown.com/sprites/trainers/">Pok&eacute;mon Showdown</a>. Any other graphics with recognizable characters, people, or visual motifs are either official art/photography of the title in question, and/or created or modified by me in some way for a specific aesthetic purpose. </p>
 
@@ -61,7 +59,7 @@
 
 <p>Most fonts on my websites are Google fonts, but have alternatives to achieve similar effects if Google fonts are not enabled. The main fonts I use are:</p>
 
-<ul><li>Rochester (display)</li>
+<ul><li>Rochester (cursive)</li>
 <li>Inconsolata (monospace)</li>
 <li>Open Sans (sans-serif)</li>
 <li>Futura (sans-serif)</li>
@@ -71,7 +69,7 @@
 
 <p><small>* not a Google font</small></p>
 
-<p>My prompt generators use many other fonts that vary between prompt generators for cosmetic reasons, and are not listed here for my own sanity whenever I make a new one. However, my source code is always freely accessible if you're curious.</p>
+<p>My prompt generators and other web projects may use other fonts that vary between projects for cosmetic reasons, and are not listed here for my own sanity whenever I make a new one. However, my source code is always freely accessible if you're curious.</p>
 
 <p>Thank you to <a href="https://lysianth.us">Lysianthus</a> for hosting, and <a href="https://cloverso.me">Clover</a>, among others, for being an endless source of inspiration.</p>
 
