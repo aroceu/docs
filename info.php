@@ -51,13 +51,7 @@
 </ul>
 <p>Includes: an about section (writer version), related works, my transformative works policy. </p>
 <p><small>* Not really, but for the purposes of this documentation the sentiment is there.</small></p>
-<h2>(b)log</h2>
-<ul>
-    <li>What I'm currently up to online, in fandom, and sometimes in other areas of my life, like the real part of it</li>
-    <li>Runs on <a href="https://zonelets.net/">Zonelets</a> with a personally customized theme</li>
-    <li>Uses a <a href="https://projects.verou.me/css3patterns/#lined-paper">notebook CSS pattern</a> as a testament to my love for notebooks and reminiscent of a past layout. Incidentally looks like a legal pad.</li>
-    <li>Post format inspired by <a href="https://nownownow.com/about">nownownow</a></li>
-</ul>
+
 <h2>library</h2>
 <ul>
 <li>Where I keep track of the various forms of entertainment that I enjoy</li>
@@ -84,6 +78,11 @@
 </ul>
 <p>Notable generators: Haikyuu, MDZS, Sexy Times with Wangxian, any of the lyric generators, to Lovers (a personal favorite)</p>
 <h2>smaller sections</h2>
+<h4>me</h4>
+<p>Personality test results. Displayed as a flex box, reminiscent of a scrapbook.</p>
+<h4>(b)log</h4>
+<p>What I'm currently up to online, in fandom, and sometimes in other areas of my life, like the real part of it. Runs on <a href="https://zonelets.net/">Zonelets</a> with a personally customized theme with a <a href="https://projects.verou.me/css3patterns/#lined-paper">notebook CSS pattern</a>. Posts inspired by <a href="https://nownownow.com/about">nownownow</a>.</p>
+</ul>
 <h4>projects</h4>
 <p>My non-fanfiction fanworks. Includes videos, fanmixes, meta/essays, and others.</p>
 <h4>music</h4>
