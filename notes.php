@@ -59,7 +59,7 @@
 
 <p>Most fonts on my websites are Google fonts, but have alternatives to achieve similar effects if Google fonts are not enabled. The main fonts I use are:</p>
 
-<ul><li>Rochester (cursive)</li>
+<ul><li>Rochester/Cookie (they look similar so I use them interchangeably depending on which one looks better) (cursive)</li>
 <li>Inconsolata (monospace)</li>
 <li>Open Sans (sans-serif)</li>
 <li>Futura (sans-serif)</li>
