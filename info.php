@@ -35,8 +35,6 @@
 
 <p><u><b>aroceu.cloud</b></u> is a vanity URL for my Bluesky account because I love microblogging and aroceu.com is too corporate-looking as a username for me. "cloud" is much cuter and fits in with the conceit of a ~blue sky~. Additionally, with the more technological idea of a cloud, I also use this domain for my email. Any emails sent to my other domains redirect here.</p>
 
-<hr />
-
 <h1 id="dotcom">aroceu.com</h1>
 <p>My main website; and where you go if you want to contact me. It&#39;s set up this way - domain and all - because it&#39;s the URL I give out the most. It has all the information I find necessary about me as well as ways to contact me and links to the creative projects that are close or relevant to me personally. This includes: my fic, library, gifts, and prompt generators.</p>
 <p>This site also has linkback buttons, though not a dedicated exit links out page. Friends and affiliates get linked out through kingdra.net.</p>
@@ -79,7 +77,7 @@
 <p>Notable generators: Haikyuu, MDZS, Sexy Times with Wangxian, any of the lyric generators, to Lovers (a personal favorite)</p>
 <h2>smaller sections</h2>
 <h4>me</h4>
-<p>Personality test results. Displayed as a flex box, reminiscent of a scrapbook.</p>
+<p>Personality test results. Displayed as a flex box, reminiscent of a scrapbook. Inspired by <a href="https://hellomei.dev">Mei</a> and <a href="https://hillhouse.neocities.org">Rosemary's</a> about pages.</p>
 <h4>(b)log</h4>
 <p>What I'm currently up to online, in fandom, and sometimes in other areas of my life, like the real part of it. Runs on <a href="https://zonelets.net/">Zonelets</a> with a personally customized theme with a <a href="https://projects.verou.me/css3patterns/#lined-paper">notebook CSS pattern</a>. Posts inspired by <a href="https://nownownow.com/about">nownownow</a>.</p>
 </ul>
