@@ -29,7 +29,7 @@
 
 <p><u><b><a href="#kingdra">kingdra.net</a></b></u> is for website-related miscellany that are not intrinsic to my identity and instead may be more resourceful or interesting to others. This includes archived projects at various levels of completion but may not receive regular updates.</p> 
 
-<p>The front page is my indie website portal - essentially, centered on my participation on the independent web rather than me. This includes updates and site maps (as I have multiple websites), cliques (as they're just fun for me to join), a FAQ (because why not), ideas for the future (maybe), other indie sites I think are cool, and a guestbook.</p>
+<p>The front page is my indie website portal - essentially, centered on my participation on the independent web rather than me. This includes updates, cliques (as they're just fun for me to join), a FAQ (because why not), ideas for the future (maybe), other indie sites I think are cool, and a guestbook.</p>
 
 <p><u><b><a href="#icirrus">icirr.us</a></b></u> is where everything related to my love of Pok&eacute;mon goes. I've loved Pok&eacute;mon longer than I've been aroceu, so this has its own domain.</p>
 
@@ -89,6 +89,8 @@
 <p>A list of quick links of my Social Network brainrot, on the internet.</p>
 <h4>manifesto</h4>
 <p>An essay on the meaning and importance of independent website curation to me. Features art by <a href="https://waneella.tumblr.com/">waneella</a> on Tumblr.</p>
+<h4>atlas</h4>
+<p>A cross-site map for aroceu.com, kingdra.net, and all other website-related projects.</p>
 <h2>archived</h2>
 <p>These are older sections that are no longer online.</p>
 <h4>stuff</h4>
@@ -101,7 +103,7 @@
 
 <p>kingdra.net hosts my mini projects, projects that are more resourceful than they are about me, and (archived) one-time projects.</p>
 <h2>index</h2>
-<p>A network of things pertaining to myself as a website-builder. The top navigation contains links to my main projects, while the bottom navigation contains links to internal pages, including: universal site updates, cliques, map, faq, and a guestbook.</p>
+<p>A network of things pertaining to myself as a website-builder. The top navigation contains links to my main projects, while the bottom navigation contains links to internal pages, including: universal site updates, cliques, ideas, faq, and a guestbook.</p>
 <p>The design features heavy image usage, primarily in the form of old school online stamps, buttons, and blinkies. The internal pages change via a central iframe, which also utilizes a <a href="https://projects.verou.me/css3patterns/#lined-paper">notebook CSS pattern</a> for the background. This page contains my latest status from status.cafe.</p>
 <p>The background is art by  <a href="https://unsplash.com/@spaceboy">Henrik Dønnestad</a>. The desktop version of this page also features commissioned art by <a href="https://bsky.app/profile/azumina.bsky.social">azumina</a> and <a href="https://bsky.app/profile/lilkikibat.bsky.social">lilkikibat</a>.
 <p>I link out to both friends and personal sites that I think are cool from here. This is my primary link-out space.</p>
