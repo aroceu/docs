@@ -42,6 +42,7 @@
 <ul>
 <li>My music subsection is built with tables so its responsive appeal is limited due to that. However, its content is still readable and contains a notice when viewing on less than optimal screen sizes.</li>
 <li>My manifesto page makes use of an animated background for visual effect without disrupting its readability. It is also compatible with reader view as an alternative.</li>
+<li>As achieve fully accessible color contrast ratios. However, most of these pages would not require the visitor to read for longer than a minute or so; the only site that would require visitors to read at length (my fic section) has a night mode option with an accessible contrast ratio.</li>
 <li>Smaller web projects with varying visual effects may contain their own notes regarding accessibility.</li>
 </ul>
 
@@ -53,7 +54,7 @@
 
 <p>I commissioned <a href="https://uwibbit.uwu.ai/">Frog</a> for the chibi art and icons of Pat and Pran from Bad Buddy.</p>
 
-<p>Various stamps, blinkies, pixels, and background images were found by others and compiled uncredited for free use; I claim no artistic ownership of them and only use them decoratively. Pok&eacute;mon trainer sprites are pixel art from <a href="https://play.pokemonshowdown.com/sprites/trainers/">Pok&eacute;mon Showdown</a>. Any other graphics with recognizable characters, people, or visual motifs are either official art/photography of the title in question, and/or created or modified by me in some way for a specific aesthetic purpose. </p>
+<p>Most stamps, blinkies, pixels, and background images were found by others and compiled uncredited for free use; I claim no artistic ownership of them and only use them decoratively. Pok&eacute;mon trainer sprites are pixel art from <a href="https://play.pokemonshowdown.com/sprites/trainers/">Pok&eacute;mon Showdown</a>. Any other graphics with recognizable characters, people, or visual motifs are either official art/photography of the title in question, and/or created or modified by me in some way for a specific aesthetic purpose. </p>
 
 <p>All other graphics are made by me.</p>
 
