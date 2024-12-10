@@ -25,6 +25,8 @@
 
 <p>All of my websites and webpages abide by the idea of being a <a href="https://www.wendycarlos.com/live.html">living page</a> &mdash; that is, they will never be finished, and therefore will always be a work in progress. The only exception to this are my archived projects, which I, for the most part, do not plan on really working on again.</p>
 
+<p>Discrepancies between footer start years largely apply to when the webpage or the contents of the webpage or the sentiments of the content of the webpage (i.e. my writing) were first online.</p>
+
 <p><u><b><a href="#dotcom">aroceu.com</a></b></u> is my primary domain because anything and everything under this URL feels like a reflection of the things I love, or me, which are intimately connected anyway. I'm a passionate creative and enthusiast (and minimalist) at heart, and everything about and under this domain represent that.</p>
 
 <p><u><b><a href="#kingdra">kingdra.net</a></b></u> is for website-related miscellany that are not intrinsic to my identity and instead may be more resourceful or interesting to others. This includes archived projects at various levels of completion but may not receive regular updates.</p> 
