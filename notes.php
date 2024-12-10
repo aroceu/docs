@@ -81,7 +81,7 @@
 <li>Domain Host: <a href="https://porkbun.com">Porkbun</a> (formerly <a href="https://namecheap.com">Namecheap</a>)</li>
 <li>Text Editor: <a href="https://sublimetext.com">SublimeText</a></li>
 <li>Photo Editor: Photoshop 2024</li>
-<li>FTP: <a href="https://cyberduck.io/">CyberDuck</a>, though oftentimes I am lazy and operate straight from cPanel</li>
+<li>FTP: <a href="https://cyberduck.io/">CyberDuck</a></li>
 <li>Browser: Firefox, tests in Safari, Firefox, IE, Chrome</li>
 <li>Search Engine: <a href="https://duckduckgo.com">DuckDuckGo</a></li>
 <li>Devices: iPhone 12 / Macbook Pro 2019 / I have a non-Mac work laptop</li>
