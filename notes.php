@@ -42,7 +42,8 @@
 <ul>
 <li>My music subsection is built with tables so its responsive appeal is limited due to that. However, its content is still readable and contains a notice when viewing on less than optimal screen sizes.</li>
 <li>My manifesto page makes use of an animated background for visual effect without disrupting its readability. It is also compatible with reader view as an alternative.</li>
-<li>As achieve fully accessible color contrast ratios. However, most of these pages would not require the visitor to read for longer than a minute or so; the only site that would require visitors to read at length (my fic section) has a night mode option with an accessible contrast ratio.</li>
+<li>As I am someone with a strong preference for pastel colors on white, some webpages may have color contrast ratios that are not considered fully accessible. However, most of these pages would not require the visitor to read for longer than a minute or so; the sites that would require visitors to read at length (my fic and projects sections) have a night mode option with a higher contrast ratio.</li>
+<li>A number of prompt generators with cosmetic quirks may also have inaccessible color contrasts.</li>
 <li>Smaller web projects with varying visual effects may contain their own notes regarding accessibility.</li>
 </ul>
 
