@@ -53,7 +53,9 @@
 
 <p>My websites are hand-coded by me as much as possible. Exceptions to this include websites that run on content management systems, which are usually credited on the specific site. Previous CMSes include <a href="https://picocms.org">Pico</a> for one-page websites and <a href="https://gitlab.com/tfl-php-scripts/enthusiast">Enthusiast</a> for fanlistings/collectives. All designs are made by me, with various sources of inspiration.</p>
 
-<p>I commissioned <a href="https://uwibbit.uwu.ai/">Frog</a> for the chibi art and icons of Pat and Pran from Bad Buddy.  The notebook CSS background pattern used on kingdra.net, /log, and /me is by Sarah Backhouse from the <a href="https://projects.verou.me/css3patterns/#lined-paper">CSS3 Patterns Gallery</a>.</p>
+<p>I commissioned <a href="https://uwibbit.uwu.ai/">Frog</a> for the chibi art and icons of Pat and Pran from Bad Buddy.  </p>
+
+<p>The notebook CSS background pattern used on kingdra.net, /log, and /me is by Sarah Backhouse from the <a href="https://projects.verou.me/css3patterns/#lined-paper">CSS3 Patterns Gallery</a>.</p>
 
 <p>Most stamps, blinkies, pixels, and background images were found by others and compiled uncredited for free use; I claim no artistic ownership of them and only use them decoratively. Pok&eacute;mon trainer sprites are pixel art from <a href="https://play.pokemonshowdown.com/sprites/trainers/">Pok&eacute;mon Showdown</a>. Any other graphics with recognizable characters, people, or visual motifs are either official art/photography of the title in question, and/or created or modified by me in some way for a specific aesthetic purpose. </p>
 
