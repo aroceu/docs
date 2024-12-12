@@ -82,7 +82,7 @@
 <h4>me</h4>
 <p>Personality test results. Displayed as a flex box, reminiscent of a scrapbook. Inspired by <a href="https://hellomei.dev">Mei</a> and <a href="https://hillhouse.neocities.org">Rosemary's</a> about pages.</p>
 <h4>(b)log</h4>
-<p>What I'm currently up to online, in fandom, and sometimes in other areas of my life, like the real part of it. Runs on <a href="https://zonelets.net/">Zonelets</a> with a personally customized theme with a <a href="https://projects.verou.me/css3patterns/#lined-paper">notebook CSS pattern</a>. Posts inspired by <a href="https://nownownow.com/about">nownownow</a>.</p>
+<p>What I'm currently up to online, in fandom, and sometimes in other areas of my life, like the real part of it. Runs on <a href="https://zonelets.net/">Zonelets</a> with a personally customized theme. Posts inspired by <a href="https://nownownow.com/about">nownownow</a>.</p>
 </ul>
 <h4>projects</h4>
 <p>My non-fanfiction fanworks. Includes videos, fanmixes, meta/essays, and others.</p>
