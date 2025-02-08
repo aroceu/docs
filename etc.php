@@ -60,7 +60,7 @@
 
 <p>The second time I bought a domain (but the first time it felt personal to me), I had the idea to have all the different subsections of my website centered around a different hue of the rainbow. My blog would be bright pink-red, my contact form would be blue, my fanlistings collective would be green, my portfolio would be yellow, and my web content site would be purple. Though this was certainly a fun idea, it felt like I was dividing myself up into pieces by making them so distinctly different. Now I have even more subsections of my website than I did back then &mdash; but having the blue centering them all feels like they tie back together to represent a whole version of me.</p>
 
-<p>All's this to say: I "am" blue (obviously not really, but I just typed all of this, so...), I love pink, I have a lot of black clothing, and I think other colors are cool and I would use them for designs that are not deeply personal to me. If I had to pick a color I don't like, it would be green because I would always choose it last when selecting colors for any designing purpose, but I don't actively dislike it. I mean, I like Charli xcx's <i>Brat</i>. But maybe it's because I grew up surrounded by trees.</p>
+<p>All's this to say: I "am" blue (obviously not really, but I just typed all of this, so...), I love pink, I have a lot of black clothing, and I think other colors are cool and I would use them for designs that are not deeply personal to me. If I had to pick a color I don't like, it would be green because I would always choose it last when selecting colors for any designing purpose, but I don't actively dislike it. I even love grass starters in Pok&eacute;mon.</p>
 
 <h1 id="development">Development</h1>
 
