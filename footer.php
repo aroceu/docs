@@ -1,7 +1,7 @@
 <hr />
 
 <p align="center"><a href="#">to top</a> &bull; <a href="https://aroceu.com/atlas">sitemap</a> &bull; <a href="https://aroceu.com/docs">clear</a>
-<br />↑ ↑ ↓ ↓ ← → ← → B A</p>
+<br /><span style="color: #589BA7;">↑ ↑ ↓ ↓ ← → ← → B A</span></p>
 
 <p style="text-align: center;">
   This site is part of the <a href="https://meta-ring.hedy.dev/">Meta Ring</a>:<br/>
