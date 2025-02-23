@@ -21,7 +21,7 @@
 
 <p>The design for each site represents a level of familiarity, fun, or personal attachment I feel to the page content, while being appropriate for the webpage's intent. I used to redesign my websites all the time when I was younger; but over time as I've learned and developed better skills, my code has become more complex and I'm not as fond of the idea anymore. I prefer seeing how long I can be happy with a design these days.</p>
 
-<p>If you'd like to learn more about each website, click on their link in the list below to take you to further documentation. Check out my <a href="etc#design">design philosphies</a> as well if you're interested in the intention of my design approach.</p>
+<p>If you'd like to learn more about each website, click on their link in the list below to take you to further documentation. Check out my <a href="etc#design">design philosophies</a> as well if you're interested in the intention of my design approach.</p>
 
 <p>All of my websites and webpages abide by the idea of being a <a href="https://www.wendycarlos.com/live.html">living page</a> &mdash; that is, they will never be finished, and therefore will always be a work in progress. The only exception to this are my archived projects, which I, for the most part, do not plan on really working on again.</p>
 
@@ -80,16 +80,16 @@
 <p>Notable generators: Haikyuu, MDZS, Sexy Times with Wangxian, any of the lyric generators, to Lovers (a personal favorite)</p>
 <h2>smaller sections</h2>
 <h4>me</h4>
-<p>Personality test results. Displayed as a flex box, reminiscent of a scrapbook. Inspired by <a href="https://hellomei.dev">Mei</a> and <a href="https://hillhouse.neocities.org">Rosemary's</a> about pages.</p>
+<p>Personal identity miscellany somewhat unique to myself that I don't take very seriously but share for fun. The landing page are my personality test results because I love personality tests. Inner pages include 'pics' (picrews/dollmakers) and 'kins' (fictional characters I feel like I relate to.) Displayed as a flex box, reminiscent of a scrapbook. Inspired by <a href="https://hellomei.dev">Mei</a> and <a href="https://hillhouse.neocities.org">Rosemary's</a> about pages.</p>
 <h4>(b)log</h4>
-<p>What I'm currently up to online, in fandom, and sometimes in other areas of my life, like the real part of it. Runs on <a href="https://zonelets.net/">Zonelets</a> with a personally customized theme. Posts inspired by <a href="https://nownownow.com/about">nownownow</a>.</p>
+<p>What I'm currently up to online, in fandom, and sometimes in other areas of my life, like the real part of it. Runs on <a href="https://zonelets.net/">Zonelets</a> with a personally customized theme. A combination of small blog posts and <a href="https://nownownow.com/about">nownownow</a> updates.</p>
 </ul>
 <h4>projects</h4>
-<p>My non-fanfiction fanworks. Includes videos, fanmixes, meta/essays, and others.</p>
+<p>Creative works that aren't fanfiction or personal websites. Includes videos, fanmixes, meta/essays, and others.</p>
 <h4>music</h4>
 <p>A text archive of music I've listened to, in tandem with my respective playlists for each year. I usually nest this one under library for similar archival reasons, even though it is not a subsection of my library.</p>
-<h4>tsn</h4>
-<p>A list of quick links of my Social Network brainrot, on the internet.</p>
+<!-- <h4>tsn</h4>
+<p>A list of quick links of my Social Network brainrot, on the internet.</p> -->
 <h4>manifesto</h4>
 <p>An essay on the meaning and importance of independent website curation to me. Features art by <a href="https://waneella.tumblr.com/">waneella</a> on Tumblr.</p>
 <h4>atlas</h4>
