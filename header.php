@@ -5,7 +5,7 @@
     <meta name="viewport" content="initial-scale=1.0">
     <meta name="robots" content="noai, noimageai">
 
-        <meta name="description" content="not an internet personality"/>
+<meta name="description" content="just another perverted hobbyist on the internet"/>
 
 <title>aroceu &bull; docs</title>
 
