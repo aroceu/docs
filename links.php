@@ -1,4 +1,4 @@
-<ul><li><a href="https://aroceu.com/docs">Clear</a> (index)</li>
+<ul><li><a href="../docs">Clear</a> (index)</li>
 		<li><a href="notes">Notes</a><ul>
 	<li><a href="notes#pa">Privacy & Accessibility</a></li>
 		<li><a href="notes#disclaimers">Disclaimers & Credits</a></li>
