@@ -9,10 +9,10 @@
   [<a href="https://meta-ring.hedy.dev/next">Next →</a>]
 </p>
 
-<p align="center"><span style="color: #589BA7; opacity: 0.4; letter-spacing: 5px;">↑ ↑ ↓ ↓ ← → ← → B A</span></p>
-
-
 </div>
+
+<p align="center"><span style="color: #fff; letter-spacing: 5px; text-shadow: 1px 1px 1px #589BA7;">↑ ↑ ↓ ↓ ← → ← → B A</span></p>
+
 
 </div>
 
