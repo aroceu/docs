@@ -134,7 +134,7 @@
 
 <p>I can only make websites that I want to make. That's why I brute-force taught myself this and got into website-making in the first place. It was about the uniqueness of all the small little design elements, the fluidity, the control, the agency. It's a show of my id through my ego, my science through my art, and most importantly, me through something I have always adored and been fascinated by as long as I can remember - technology, and the internet. It's a conversation between me and myself, future and past iterations. </p>
 
-<p>And, of course, it's a conversation between me and you. I believe that the reason we're here for anything is because of our relationships with everyone else in the world, whether in a voyeuristic way or in dialogue. I believe that our relationships with each other enrich our lives, both because learning about others helps us learn about ourselves, and because they just do, even if we're only ships passing in the night. </p>
+<p>And, of course, it's a conversation between me and you. I believe that the reason we're here for anything is because of our relationships with everyone else in the world, whether in a voyeuristic way or in dialogue. Our relationships with each other enrich our lives, both because learning about others helps us learn about ourselves, and because they just do, even if we're only ships passing in the night. </p>
 
 <h1 id="origins">Origins</h1>
 
