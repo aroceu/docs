@@ -15,5 +15,6 @@
 	    <li><a href="etc">Addendums</a><ul>
 	    <li><a href="etc#design">Design Philosophies</a></li>
 		<li><a href="etc#development">Development</a></li>
+		<li><a href="etc#purpose">Personal Site Purpose</a></li>
 		<li><a href="etc#origins">Origins</a></li>
 	</ul></li></ul>

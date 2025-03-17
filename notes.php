@@ -83,12 +83,12 @@
 
 <ul><li>Web Host: <a href="https://leprd.space">Leprd.space</a></li>
 <li>Domain Host: <a href="https://porkbun.com">Porkbun</a> (formerly <a href="https://namecheap.com">Namecheap</a>)</li>
-<li>Text Editor: <a href="https://sublimetext.com">SublimeText</a></li>
-<li>Photo Editor: Photoshop 2024</li>
-<li>FTP: <a href="https://cyberduck.io/">CyberDuck</a></li>
-<li>Browser: Firefox, tests in Safari, Firefox, IE, Chrome</li>
+<li>Text Editor: Virtual Studio Code (formerly <a href="https://sublimetext.com">SublimeText</a>)</li>
+<li>Photo Editor: Photoshop 2025</li>
+<li>FTP: ForkLife (formerly <a href="https://cyberduck.io/">CyberDuck</a>)</li>
+<li>Browser: Firefox, tests in Safari, Firefox, IE, Chrome, Opera</li>
 <li>Search Engine: <a href="https://duckduckgo.com">DuckDuckGo</a></li>
-<li>Devices: iPhone 12 / Macbook Pro 2019 / I have a non-Mac work laptop</li>
+<li>Devices: iPhone 15 / Macbook Pro 2024 / I have a non-Mac work laptop</li>
 <li>Headphones: Razer Barracuda X headphones (pink, microphone as well), AirPod Pros, Blue Snowball iCE USB Microphone, wired headphones that I only use for work</li>
 <li>Streaming: Elgato HD60 S+, ASUS 24" LED FHD FreeSync Monitor, <a href="https://obsproject.com/">OBS</a></li>
 </ul>
