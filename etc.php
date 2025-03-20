@@ -66,19 +66,6 @@
 <p>All's this to say: I "am" blue (obviously not really, but I just typed all of this, so...), I love pink, I have a lot of black clothing, and I think other colors are cool and I would use them for designs that are not deeply personal to me. If I had to pick a color I don't like, it would be green because I would always choose it last when selecting colors for any designing purpose, but I don't actively dislike it. I even love grass starters in Pok&eacute;mon.</p>
 
 <h1 id="development">Development</h1>
-
-<p>A handful of my website repositories are public on <a href="https://github.com/aroceu">my Github</a>:</p>
-
-<ul><li>My fic website's <a href="https://github.com/aroceu/fic">WordPress theme</a></li>
-    <li>My <a href="https://github.com/aroceu/library">library</a></li>
-    <li>My <a href="https://github.com/aroceu/music">music archive</a></li>
-    <li>My <a href="https://github.com/aroceu/gifts">gifts</a> (things people have made for me)</li>
-    <li>My <a href="https://github.com/aroceu/generators">prompt generators</a></li>
-    <li>This! The <a href="https://github.com/aroceu/docs">docs</a> are here too now.</li>
-</ul>
-
-<p>You may be interested in the repos for <a href="https://github.com/aroceu/links">my links</a>. Some other projects have private Github repositories instead. Additional material related to my internet presence is aggregated at <a href="https://aroceu.github.io">my Github pages</a>.</p>
-
 <p>I am not a very disciplined developer; everything I learned about web development I initially learned through trial and error with constant browser refreshes, and using whatever's the most convenient to me at the time, so that's the habit I've maintained for the past couple of decades. I recognize that this is not best practice and I am, little by little, trying to improve that.</p>
 
 <p>From beginning to end, here's how I go through the process of creating a website:</p>

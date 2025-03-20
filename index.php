@@ -3,11 +3,9 @@
     <?php include('navigation.php'); ?>
 
 <h1>Documentation</h1>
-<h3>Last updated: March 17, 2025</h3>
+<h3>Last updated: March 19, 2025</h3>
 
-<blockquote><b><i>(n.)</i></b> any communicable material that is used to describe, explain or instruct regarding some attributes of an object, system or procedure, such as its parts, assembly, installation, maintenance, and use (<a href="https://en.wikipedia.org/wiki/Documentation">wikipedia</a>)</blockquote>
-
-<p>Repositories, real-time updates, and additional personal internet documentation can be found on my <a href="https://github.com/aroceu">Github</a>.</p>
+<blockquote>Extensive metadata on all of my websites, my design and coding process, my introspective process, and other technical miscellany.</blockquote>
 
 <hr />
 

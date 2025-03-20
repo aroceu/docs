@@ -48,36 +48,47 @@
 <li>Runs on WordPress, uses a good amount of plugins and a custom theme. </li>
 <li>Will have commissioned banners  one day, but for now enjoy the star pattern I made in like 5 minutes in Photoshop.</li>
 <li>Each fic has its own page and can be sorted, filtered, and searched for in a variety of ways. WIPs have a custom template, fic pages emulate AO3&#39;s readerstyle with personal flourishes, and allow you to bookmark the fic on AO3 (if you&#39;d like), a mirrored link at AO3 (if it exists), and a social media promotional post (if it exists).</li>
-<li>Additional features: A mobile menu/filter option, night mode</li>
+<li>Additional features: A mobile menu/filter option, night mode.</li>
 </ul>
 <p>Includes: an about section (writer version), related works, my transformative works policy. </p>
 <p><small>* Not really, but for the purposes of this documentation the sentiment is there.</small></p>
 
 <h2>library</h2>
 <ul>
-<li>Where I keep track of the various forms of entertainment that I enjoy</li>
-<li>Raw coded</li>
-<li>Intentionally reminiscent of cutesy lightweight pixel sites with a modern spin</li>
-<li>Features: collapsible menus, a collapsible gallery, bad color contrast, and an over-abundance of patterned backgrounds</li>
-<li>Inspired by <a href="https://cloverso.me">Clover's</a> <a href="https://catso.neocities.org/library/">library</a>
+<li>Where I keep track of the various forms of entertainment that I enjoy.</li>
+<li>Raw coded.</li>
+<li>Intentionally reminiscent of cutesy lightweight pixel sites with a modern spin.</li>
+<li>Features: collapsible menus, a collapsible gallery, bad color contrast, and an over-abundance of patterned backgrounds.</li>
+<li>Inspired by <a href="https://cloverso.me">Clover's</a> <a href="https://catso.neocities.org/library/">library</a>.
 </ul>
-<p>Includes: main library, &quot;the list&quot; (to do), favorites, log (current year)</p>
+<p>Includes: main library, &quot;the list&quot; (to do), favorites, log (current year).</p>
 <h2>gifts (<a href="https://aroceu.com/gifts/documentation">full documentation</a>)</h2>
 <ul>
     <li>A repository of the creative and largely fannish works people have made for me over the years. This includes commissions I've paid for (art), gifts from my friends and exchange events (fic and art), and my over-investment in Splatoon commissions specifically.</li>
-    <li>Raw coded</li>
-    <li>A cutesy lightweight pixel site, but for real this time</li>
-    <li>Uses Lightbox for image galleries</li>
-    <li>Features: fixed sidebar, lots of decorative pixels, fun and colorful lists</li>
+    <li>Raw coded.</li>
+    <li>A cutesy lightweight pixel site, but for real this time.</li>
+    <li>Uses Lightbox for image galleries.</li>
+    <li>Features: fixed sidebar, lots of decorative pixels, fun and colorful lists.</li>
 </ul>
 <h2>prompt generators</h2>
 <ul>
 <li>A hub of prompt generators coded from scratch. Free to use by the public for any creative purpose, though the original idea was for fanfiction. </li>
-<li>Raw coded</li>
+<li>Raw coded.</li>
 <li>More lightweight than you&#39;d think; written primarily in PHP.</li>
 <li>Each prompt generator has a unique and fun design to represent the fandom/subject it&#39;s generating for.</li>
 </ul>
 <p>Notable generators: Haikyuu, MDZS, Sexy Times with Wangxian, any of the lyric generators, to Lovers (a personal favorite)</p>
+
+<h2>splatoon</h2>
+<ul>
+    <li>My love for Splatoon in webpage format.</li>
+    <li>Raw coded.</li>
+    <li>Thematically pink as pink has always been my Splatoon color.</li>
+    <li>Image-heavy, primarily in the sense of content.</li>
+    <li>The first time I tried to organize all my directories properly while making a project, not afterward.</li>
+    <li>Features: fixed side navigation and additional in-page navigation on one page, an outfit gallery by weapon, and all of the Splatoon art from my gifts section plus some which weren't necessarily made with me in mind.</li>
+    <li>An experiment in Javascript, for me.</li>
+</ul>
 <h2>smaller sections</h2>
 <h4>me</h4>
 <p>Personal identity miscellany somewhat unique to myself that I don't take very seriously but share for fun. The landing page are my personality test results because I love personality tests. Inner pages include 'pics' (picrews/dollmakers) and 'kins' (fictional characters I feel like I relate to.) Displayed as a flex box, reminiscent of a scrapbook. Inspired by <a href="https://hellomei.dev">Mei</a> and <a href="https://hillhouse.neocities.org">Rosemary's</a> about pages.</p>
