@@ -116,6 +116,13 @@ b, u, code{
     color: #589BA7;
 }
 
+.konami{
+	text-align: center;
+	color: #fff; 
+	letter-spacing: 5px; 
+	text-shadow: 1px 1px 1px #589BA7;
+}
+
 @media only screen and (max-width: 1025px) and (min-width: 769px){
     
     html {
@@ -131,6 +138,10 @@ b, u, code{
         width: auto;
         margin: 0 auto;
     }
+
+	.konami{
+		display: none;
+	}
 }
 
 @media only screen and (max-width: 768px) and (min-width: 431px) {
@@ -146,6 +157,9 @@ html {
 #box{display: none;
 }
 
+.konami{
+	display: none;
+}
 
 }
 
@@ -162,5 +176,8 @@ html {
 #box{display: none;
 }
 
+.konami{
+	display: none;
+}
 
 }

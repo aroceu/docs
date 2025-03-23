@@ -11,7 +11,7 @@
 
 </div>
 
-<p align="center"><span style="color: #fff; letter-spacing: 5px; text-shadow: 1px 1px 1px #589BA7;">↑ ↑ ↓ ↓ ← → ← → B A</span></p>
+<p class="konami">↑ ↑ ↓ ↓ ← → ← → B A</p>
 
 
 </div>
