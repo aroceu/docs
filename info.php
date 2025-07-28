@@ -13,7 +13,7 @@
             <li><a href="#badbuddy">badbuddy.wiki</a></li>
             <li><a href="#threeapples">three-apples.org</a></li>
 		    </ul></li>
-    <li><a href="#purpose">Existential Purpose</a></li></ul>
+    <li><a href="#purpose">Purpose</a></li></ul>
 
 <h1 id="etymology">Etymology</h1>
 
@@ -105,6 +105,7 @@ At one point this site had its own documentation. As of late July 2025, I've scr
 	<li>While I am not a furry, the way I feel about my splatsona is similar, in terms of having an externalized persona. I say this because my inspiration for having my splatsona in the corner was from visiting a lot of furry websites where people's fursonas had a similar function.</li>
 	<li>My favorite thing about the indie web has always been visiting other people's websites; I used to ask to affiliate a <em>lot</em> when I was younger, mostly as a bookmark to visit people's sites again. In that time, the internet has expanded and I've grown more reclusive. But I still love visiting people's websites with the same fervor, which is why I have such an extensive button wall.</li>
 	<li>Once I hit a hundred buttons on the page, though, I realized it might be a little impractical for really anyone else to visit. So now I have a random rotation of five on each page load, because I want people to be as interested in visiting those personal sites as I am.</li>
+	<li>This is my primary link out space due to the different functions of <code>aroceu.com</code> and <code>kingdra.net</code>. If you wish to link to me, you can pick which site you'd like to link to, or both.</li>
 	<li>This website is primarily for me to maintain and keep track of things related to my websites and beyond, such as things I make irregularly, my favorite albums, and old flash games I like being nostalgic for, in addition to more housekeeping things like network updates and future plans. This is part of why the desktop design is so impractical - the only audience it serves to appeal to is me.</li>
 	</ul>
 
@@ -160,7 +161,7 @@ At one point this site had its own documentation. As of late July 2025, I've scr
 
 <p>A website for projects related to who I am outside of fandom and the internet; that is, offline and in real life. Will have its own documentation eventually. Under construction.</p>
 
-<h1 id="purpose">Existential Purpose</h1>
+<h1 id="purpose">Purpose</h1>
 
 <p>My websites exist to:</p>
 

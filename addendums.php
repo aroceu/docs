@@ -24,7 +24,7 @@
 	<li>Limited visitor input, feedback, and tracking.</li>
 </ul>
 
-<p>As a coder, I frequently work with the mindset of "I'll make this better later," so sometimes my websites are not 
+<p>As a developer, I frequently work with the mindset of "I'll make this better later," so sometimes my websites are not 
 	fully accessible upon launch, or when online. At any given moment, I have either done my best or aspire to make my websites 
 	optimally:</p>
 
@@ -45,7 +45,7 @@
 	<li>Use JavaScript.</li>
 	<li>Make simple use of iframes to convey a small amount of information between separated content.</li>
 	<li>Do not make any use of AI-generated text, images, or content.</li>
-	<li>Allow little to no access for AI scraping, web crawlers, bots, or search engines. I don't mind being shared or archived but I don't want my data to be commodified either.</li>
+	<li>Allow little to no access for AI scraping, web crawlers, and bots. I don't mind being shared or archived but I don't want my data to be commodified either.</li>
 </ul>
 
 <p>Websites I link to consist of their own content and webmasters, which I have no interest in policing. 
@@ -162,8 +162,11 @@
 <ul>
 	<li>Chibi Pat & Pran, and Pran holding Kirby are by <a href="https://uwibbit.uwu.ai/">Frog</a>, as commissioned by me.</li>
 	<li>Me as Azumarill is by my friend Adam, who would otherwise like to remain anonymous.</li>
+	<li>The background of kingdra.net is art by <a href="https://unsplash.com/@spaceboy"> Henrik Dønnestad</a></li>
+	<li>The desktop version of kingdra.net features art by  <a href="https://bsky.app/profile/lilkikibat.bsky.social">lilkikibat</a> and <a href="https://bsky.app/profile/azumina.bsky.social">azumina</a>.</li>
 	<li>Art in Spotlight, Favs, Gifts, and additional projects are attributed either through captions or by file name.</li>
 	<li>Dollmakers/picrews are linked through images or on the same page.</li>
+	<li>Any photography not credited to me are found through <a href="https://unsplash.com/">Unsplash</a>.</li>
 	<li>Further art is credited on relevant pages/projects.</li>
 </ul>
 

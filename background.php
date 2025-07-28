@@ -108,7 +108,7 @@
         </p>
         <p>
             When we moved to <a href="https://en.wikipedia.org/wiki/Myspace">MySpace</a>, I discovered that it was just as 
-            customizable, but only with code, not with a drag-and-drop editor anymore. I didn't even know what HTML did, despite 
+            customizable, but only with code, not with a drag-and-drop editor anymore. I didn't even know what <a href="https://en.wikipedia.org/wiki/HTML">HTML</a> did, despite 
             that I added hundreds of copy-and-paste codes for icons on my IMVU page. My friend taught me enough so that 
             I could make my profile look the way I wanted it to - black and white with a ton of icons again - while she went with 
             more deliberately pieced aesthetics, like pinks and browns, pinks and greys, pinks and whites, and pinks and greens.
@@ -129,7 +129,7 @@
         </p>
 
         <p>
-            And so came my first site, hosted on <a href="https://en.wikipedia.org/wiki/Freewebs">Freewebs</a>, which was a free subdomain host that 
+            And so came my first site, created on <a href="https://en.wikipedia.org/wiki/Freewebs">Freewebs</a>, which was a free subdomain host that 
             popped up in a lot of Quizilla layout credits. My first website title had my IRL name in it, and its first 
             main graphic was frankensteined in <a href="https://en.wikipedia.org/wiki/MSPaint">MSPaint</a>. There's a 100% chance that the first code I used was stolen. 
             But it was mine. What it looked like and what I put on it was entirely my decision, and that part was immediately thrilling.
@@ -138,7 +138,7 @@
         <p>
             Since the first types of personal websites I had encountered created and shared layouts for others, that was what my first website became. 
             I made layouts frequently, still through this method of not-exactly-writing-my-own-code. I made these layouts a bit <em>too</em>
-            frequently, actually; but as I did, my understanding of HTML and CSS began to more fluently develop. Though I often
+            frequently, actually; but as I did, my understanding of HTML and <a href="https://en.wikipedia.org/wiki/CSS">CSS</a> began to more fluently develop. Though I often
             felt insecure about my graphic design ability, my confidence in understanding code grew. And it helped that I was so addicted: 
             I enjoyed webdesigning so much that I kept wanting to do it. It felt impossible for me to stop.
         </p>
@@ -180,11 +180,11 @@
         <p>
             My second website and first subdomain was acquired in February 2009, and the layout I made for it was the first code I had written
             entirely from scratch. I was more confident than ever now in understanding what code <em>meant</em>, not just what it did. 
-            I even started to delve into PHP, though I was still too scared to touch JavaScript. 
+            I even started to delve into <a href="https://en.wikipedia.org/wiki/PHP">PHP</a>, though I was still too scared to touch JavaScript. 
         </p>
         
         <p>
-            The more I explored in the personal web outside of Freewebs, the more I discovered outside of sozai/layout sites. 
+            The more I explored in the personal web outside of Freewebs, the more I discovered outside of <a href="https://en.wiktionary.org/wiki/%E7%B4%A0%E6%9D%90">sozai</a>/layout sites. 
             I quickly found bloggers, fascinated at the concept of people writing extensively about their lives, something which, 
             understandably at the time, felt too personal and tumultuous for me. But I also love thinking and spinning narratives 
             out of everything, so I entertained it for a bit, trying to find my voice and what I wanted to talk about, instead of my 
@@ -231,7 +231,7 @@
         <p>
             At the end of 2011, in an attempt to help wane my writing addiction (which was getting a little out of hand), 
             I rekindled my interest in making websites and improving through the process. I returned to the subdomain world 
-            with my first (real) attempt at a WordPress theme, a three-column top navigation site. But this time I wasn't interested 
+            with my first (real) attempt at a <a href="https://en.wikipedia.org/wiki/WordPress">WordPress</a> theme, a three-column top navigation site. But this time I wasn't interested 
             in making layouts for other people. Well, that wasn't my intention, anyway. I wanted to get into blogging, 
             because I knew at this point that I couldn't commit to making layouts and content if I wasn't hyperfixated.
         </p>
@@ -266,7 +266,7 @@
             months later and created a new username in December of 2014: aroceu. I bought <strong>aroceu.com</strong> almost immediately after 
             establishing it, on my half birthday of a new decade, eager to not wallow in my self-hatred anymore. However, for a long time I had always thought of
             <code>.nu</code> domains as the peak of sophistication when it comes to TLDs, so I bought another one, which was not named "aroceu"
-            because it would've sounded bad with the TLD. I tried blogging again but didn't really get into it, and dabbled in fanlistings
+            because it would've sounded bad with the TLD. I tried blogging again but didn't really get into it, and dabbled in <a href="https://thefanlistings.org/">fanlistings</a>
             a few times before I quickly realized how tedious they were for me to maintain. 
         </p>
 
@@ -280,8 +280,8 @@
         <p>
             After a long dry and depressive spell, my brain started whirring with ideas again. A simple text-based list didn't accurately depict how widespread
             and categorical my fannish interests are. When I absently thought, <em>well, I could make a website that does</em>, I had no reason 
-            not to and I had all the time in the world. So I did, getting my fingers into JavaScript for the first time.</p> 
-            
+            not to and I had all the time in the world. So I did, getting my fingers into <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a> for the first time.</p> 
+
             <p>Then I remembered how years ago, in 2010, I'd found a pairing and prompt generator for my first
             and forever k-pop boy group, Super Junior. I thought, <em>I could make something similar for my current hyperfixation</em> because it had an even 
             bigger cast of guys, Haikyuu. So I made a Haikyuu prompt generator.</p> 
@@ -292,7 +292,7 @@
         </p>
 
         <p>
-            I tried getting into fanlistings (and, for a moment, shrines) again, but what I was having the most fun with, like usual, was constructing the site. I didn't really care to get my
+            I tried getting into fanlistings (and, for a moment, <a href="https://amassment.org/">shrines</a>) again, but what I was having the most fun with, like usual, was constructing the site. I didn't really care to get my
             fanlistings approved, nor, still, did I have any interest in maintaining them. Despite this, my love for Pok&eacute;mon constantly weighed 
             on my mind during my venture back in, because I wanted to make a site inspired by my love for Pok&eacute;mon, 
             but not something that felt impersonal or meant for others. I wanted to make a Pok&eacute;mon design and website that was really only meant to 

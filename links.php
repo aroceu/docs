@@ -9,7 +9,7 @@
 		<ul>
 			<li><a href="info#etymology">Etymology</a></li>
 			<li><a href="info#domains">Domain Overview</a></li>
-			<li><a href="info#purpose">Existential Purpose</a></li>
+			<li><a href="info#purpose">Purpose</a></li>
 		</ul>
 	</li>
 	<li><a href="background">Background</a>
