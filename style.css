@@ -46,7 +46,30 @@ a:link, a:visited{
 	color: #589BA7;
 }
 
-i{
+em{
+	color: #589BA7;
+}
+
+u{
+	text-decoration: none;
+	border-bottom: 2px dotted #589BA7;
+}
+
+strong{
+	color: #fff;
+	background: #589BA7;
+}
+
+mark{
+	background: #b8e6ef;
+	border-radius: 0.2em;
+}
+
+mark a:link, mark a:visited{
+	color: #333;
+}
+
+mark a:hover, mark a:focus{
 	color: #589BA7;
 }
 
@@ -54,8 +77,18 @@ a:hover, a:focus{
 	color: #333;
 }
 
+#content ul{
+	margin: 2em 0;
+}
+
 #content ul li{
 	margin: 1em 0;
+	padding-left: 1em;
+}
+
+li::marker{
+	color: #589BA7;
+	font-weight: bold;
 }
 
 h1{
@@ -63,7 +96,7 @@ h1{
 	color: #589BA7;
 	border-bottom: 3px solid #589BA7;
 	padding: 1em 0 1em;
-	margin: 0;
+	margin: 0 0 1em;
 	font-weight: bold;
 }
 
@@ -71,10 +104,14 @@ h2{
 	font: italic 150% 'Inconsolata', monospace;
 	font-weight: bold;
 	color: #589BA7;
+	margin: 2em 0 1em;
+	padding: 0.5em;
+	border-top: 2px dotted #589BA7;
+	border-bottom: 2px dotted #589BA7;
 }
 
 h3{
-    margin: 0 0 1em;
+    margin: -1.5em 0 1em;
     padding: 0;
     text-align: right;
     color: #589BA7;
@@ -112,8 +149,14 @@ big{
 	font-weight: bold;
 }
 
-b, u, code{
+b,code{
     color: #589BA7;
+}
+
+code{
+	background: #f0f0f0;
+	padding: 0.2em 0.5em;
+	border-radius: 0.2em;
 }
 
 .konami{
@@ -121,6 +164,26 @@ b, u, code{
 	color: #fff; 
 	letter-spacing: 5px; 
 	text-shadow: 1px 1px 1px #589BA7;
+}
+
+blockquote{
+	background: #eeeeee;
+	border-left: 10px solid #589BA7;
+	padding: 1em 2em;
+	margin: 2em 1em;
+}
+
+#domains blockquote p{
+	margin: 0;
+}
+
+blockquote strong{
+	color: #589BA7;
+	background: none;
+}
+
+p.center{
+	text-align: center;
 }
 
 @media only screen and (max-width: 1025px) and (min-width: 769px){
